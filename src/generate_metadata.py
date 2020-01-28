@@ -11,30 +11,30 @@ if __name__ == "__main__":
     start_year = 2000
     end_year = 2015
 
-    # format readable output
-    pretty = True
+    # format readable output [pretty/minify/other]
+    json_format = 'minify'
 
     # create output directory
     Path("../out").mkdir(parents=True, exist_ok=True)
 
     # handling for custom logic of occ/mos labels
     print("Generating metadata files in the ../out directory")
-    format_simple_occ(pretty)
-    format_detailed_occ(pretty)
+    format_simple_occ(json_format)
+    format_detailed_occ(json_format)
 
     # handling for default layout
-    format_default("label_afqtgrp", "afqtgrp", pretty)
-    format_default("label_agegrp", "agegrp", pretty)
-    format_default("label_education", "education", pretty)
-    format_default("label_ethnicity", "ethnicity", pretty)
-    format_default("label_fipsnum", "geography", pretty)
-    format_default("label_industry", "industry", pretty)
-    format_default("label_paygrade", "paygrade", pretty)
-    format_default("label_race", "race", pretty)
-    format_default("label_sex", "sex", pretty)
-    format_default("label_yosgrp", "yosgrp", pretty)
+    format_default("label_afqtgrp", "afqtgrp", json_format)
+    format_default("label_agegrp", "agegrp", json_format)
+    format_default("label_education", "education", json_format)
+    format_default("label_ethnicity", "ethnicity", json_format)
+    format_default("label_fipsnum", "geography", json_format)
+    format_default("label_industry", "industry", json_format)
+    format_default("label_paygrade", "paygrade", json_format)
+    format_default("label_race", "race", json_format)
+    format_default("label_sex", "sex", json_format)
+    format_default("label_yosgrp", "yosgrp", json_format)
 
     # add custom year labels per cohort size
-    format_cohort_years(start_year, end_year, 2, pretty)
-    format_cohort_years(start_year, end_year, 4, pretty)
-    format_cohort_years(start_year, end_year, 8, pretty)
+    format_cohort_years(start_year, end_year, 2, json_format)
+    format_cohort_years(start_year, end_year, 4, json_format)
+    format_cohort_years(start_year, end_year, 8, json_format)

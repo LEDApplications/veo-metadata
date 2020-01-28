@@ -15,9 +15,9 @@ def read_csv(file):
 
 
 # Convert csv data into json and write it
-def write_json(data, json_file, json_obj_name, pretty):
+def write_json(data, json_file, json_obj_name, format='pretty'):
     with open(json_file, "w", encoding='utf8') as f:
-        if pretty:
+        if format == 'pretty':
             json_array = json.dumps(data,
                                     sort_keys=False,
                                     indent=4,
@@ -25,5 +25,7 @@ def write_json(data, json_file, json_obj_name, pretty):
                                     ensure_ascii=False)
             json_object = '{{"{}":{}}}'.format(json_obj_name, json_array)
             f.write(json_object)
+        elif format == 'minify':
+            f.write('{{"{}":{}}}'.format(json_obj_name, json.dumps(data, separators=(',', ':'))))
         else:
             f.write('{{"{}":{}}}'.format(json_obj_name, json.dumps(data)))

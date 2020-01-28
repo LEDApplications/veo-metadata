@@ -3,7 +3,7 @@
 from utils import read_csv, write_json
 
 
-def format_simple_occ(pretty=False):
+def format_simple_occ(pretty=None):
     print("Creating two digit occupation labels")
     csv_file = '../raw/label_dod_occ_code_simple.csv'
     json_file = '../out/label_dod_occ_code.json'
