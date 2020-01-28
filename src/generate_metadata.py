@@ -19,3 +19,12 @@ if __name__ == "__main__":
 
     # handling for default layout
     format_default("label_afqtgrp", "afqtgrp", pretty)
+    format_default("label_agegrp", "agegrp", pretty)
+    format_default("label_education", "education", pretty)
+    format_default("label_ethnicity", "ethnicity", pretty)
+    format_default("label_fipsnum", "geography", pretty)
+    format_default("label_industry", "industry", pretty)
+    format_default("label_paygrade", "paygrade", pretty)
+    format_default("label_race", "race", pretty)
+    format_default("label_sex", "sex", pretty)
+    format_default("label_yosgrp", "yosgrp", pretty)

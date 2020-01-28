@@ -4,7 +4,7 @@ from utils import read_csv, write_json
 
 
 def format_simple_occ(pretty=False):
-    print("Creating two digit occupation codes")
+    print("Creating two digit occupation labels")
     csv_file = '../raw/label_dod_occ_code_simple.csv'
     json_file = '../out/label_dod_occ_code.json'
 
@@ -16,4 +16,3 @@ def format_simple_occ(pretty=False):
             csv_data.extend([{"id": dod_id, "label": label}])
 
     write_json(csv_data, json_file, "labels", pretty)
-
