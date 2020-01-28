@@ -1,0 +1,919 @@
+dod_occ_code,dod_occ_code_level,label,moc_code,moc_code_label,doc_occ_code_full,moc_code_status,start_date,end_date,not_in_veo
+10X,2,"Infantry, Gun Crews, and Seamanship Specialists",See below,See below,See below,See below,See below,See below,
+101,3,"Infantry, General",11B,Infantryman,101000,A,196505,999912,0
+101,3,"Infantry, General",11C,Indirect Fire Infantryman,101000,A,196505,999912,0
+101,3,"Infantry, General",11H,Heavy Antiarmor Weapons Infantryman,101000,O,197406,200209,0
+101,3,"Infantry, General",11M,Fighting Vehicle Infantryman,101000,O,198103,200209,0
+101,3,"Infantry, General",11Z,Infantry Senior Sergeant,101000,A,197503,999912,0
+101,3,"Infantry, General",18B,Special Forces Weapons Sergeant,101100,A,198401,999912,0
+101,3,"Infantry, General",18C,Special Forces Engineer Sergeant,101100,A,198401,999912,0
+101,3,"Infantry, General",18D,Special Forces Medical Sergeant,101100,A,198401,999912,0
+101,3,"Infantry, General",18E,Special Forces Communications Sergeant,101100,A,198401,999912,0
+101,3,"Infantry, General",18F,Special Forces Assistant Operations and Intelligence Sergeant,101100,A,199701,999912,0
+101,3,"Infantry, General",18Z,Special Forces Senior Sergeant,101100,A,198401,999912,0
+101,3,"Infantry, General",11L,Infantry Senior Sergeant,101000,O,190001,200001,0
+102,3,"Armor and Amphibious, General",19E,M48-M60 Armor Crewman,102000,O,197710,199804,1
+102,3,"Armor and Amphibious, General",19F,M48/M60 Tank Driver,102000,O,197710,198103,1
+102,3,"Armor and Amphibious, General",19G,Armor Reconnaissance Vehicle Crewman,102000,O,197710,198103,1
+102,3,"Armor and Amphibious, General",19H,Armor Reconnaissance Vehicle Driver,102000,O,197710,198103,1
+102,3,"Armor and Amphibious, General",19J,M60A2 Armor Crewman,102000,O,197710,198103,1
+102,3,"Armor and Amphibious, General",19K,M1 Armor Crewman,102000,A,198001,999912,0
+102,3,"Armor and Amphibious, General",19L,XM1 Tank Driver,102000,O,198001,198103,1
+102,3,"Armor and Amphibious, General",19Z,Armor Senior Sergeant,102000,A,197710,999912,0
+102,3,"Armor and Amphibious, General",11E,Armor Crewman,102000,O,196505,197710,1
+103,3,"Combat Engineering, General",17E,Field Illumination Crewman,103000,O,196505,197604,1
+103,3,"Combat Engineering, General",21B,Combat Engineer,103000,O,200309,201010,0
+103,3,"Combat Engineering, General",21C,Bridge Crewmember,103000,O,200309,201010,0
+103,3,"Combat Engineering, General",21Z,Combat Engineering Senior Sergeant,103000,O,200309,201010,0
+103,3,"Combat Engineering, General",54A,Chemical Operations Assistant,103000,O,196505,197610,1
+103,3,"Combat Engineering, General",54C,Smoke Operations Specialist,103000,O,196505,198610,1
+103,3,"Combat Engineering, General",12B,Combat Engineer,103000,A,201004,999912,0
+103,3,"Combat Engineering, General",12C,Bridge Crewmember,103000,A,201004,999912,0
+103,3,"Combat Engineering, General",12Z,Combat Engineering Senior Sergeant,103000,A,201004,999912,0
+103,3,"Combat Engineering, General",12A,Engineer Senior Sergeant,103000,A,201204,999912,0
+103,3,"Combat Engineering, General",12A,Pioneer,103000,O,196505,197405,1
+103,3,"Combat Engineering, General",12B,Combat Engineer,103000,O,196505,200409,0
+103,3,"Combat Engineering, General",12C,Bridge Crewmember,103000,O,199904,200409,0
+103,3,"Combat Engineering, General",12D,Powered Bridge Specialist,103000,O,196803,197604,1
+103,3,"Combat Engineering, General",12E,Atomic Demolition Munitions Specialist,103000,O,196803,198903,1
+103,3,"Combat Engineering, General",12F,Engineer Tracked Vehicle Crewman,103000,O,198501,199610,1
+103,3,"Combat Engineering, General",12Z,Combat Engineering Senior Sergeant,103000,O,199205,200409,0
+104,3,"Missile Artillery, Operating Crew ",13A,Field Artillery Basic,104100,O,196505,197405,1
+104,3,"Missile Artillery, Operating Crew ",13B,Cannon Crewmember,104100,A,196505,999912,0
+104,3,"Missile Artillery, Operating Crew ",13Z,Field Artillery Senior Sergeant,104100,A,196601,999912,0
+104,3,"Missile Artillery, Operating Crew ",16L,SGT YORK Air Defense Gun Crewmember,104100,O,198212,198610,1
+104,3,"Missile Artillery, Operating Crew ",16R,VULCAN Crewmember,104100,O,196803,199704,1
+104,3,"Missile Artillery, Operating Crew ",13M,Multiple Launch Rocket System (MLRS)/High Mobility Artillery Rocket System (HIMARS) Crewmember,104200,A,200504,999912,0
+104,3,"Missile Artillery, Operating Crew ",15D,LANCE Crewmember/MLRS Sergeant,104200,O,196809,198610,1
+104,3,"Missile Artillery, Operating Crew ",15F,HONEST JOHN Rocket Crew Member,104200,O,197002,198001,1
+104,3,"Missile Artillery, Operating Crew ",13N,LANCE Crewmember,104300,O,198604,199304,1
+104,3,"Missile Artillery, Operating Crew",14D,HAWK Missile System Crewmember,104300,O,199009,200104,0
+104,3,"Missile Artillery, Operating Crew",14E,PATRIOT Fire Control Enhanced Operator/Maintainer,104300,A,199704,999912,0
+104,3,"Missile Artillery, Operating Crew",14M,Man Portable Air Defense System Crewmember (RC),104300,O,199704,201010,0
+104,3,"Missile Artillery, Operating Crew",14S,AVENGER Crewmember (USAR/NG only),104300,A,199109,999912,0
+104,3,"Missile Artillery, Operating Crew",14T,PATRIOT Launching Station Enhanced Operator/Maintainer,104300,A,199704,999912,0
+104,3,"Missile Artillery, Operating Crew",14Z,Air Defense Artillery Senior Sergeant,104300,A,199704,999912,0
+104,3,"Missile Artillery, Operating Crew",15B,SERGEANT Missile Crewman,104300,O,196505,197806,1
+104,3,"Missile Artillery, Operating Crew",15E,PERSHING Missile Crewmember,104300,O,196505,199210,1
+104,3,"Missile Artillery, Operating Crew",15J,MLRS/LANCE Operational/Fire Direction Specialist,104300,O,196505,198710,1
+104,3,"Missile Artillery, Operating Crew",15Z,Field Artillery Missile-Rocket Senior Sergeant,104300,O,196809,197604,1
+104,3,"Missile Artillery, Operating Crew",16B,HERCULES Missile Crew Member,104300,O,196505,198510,1
+104,3,"Missile Artillery, Operating Crew",16C,HERCULES Fire Control Crewman,104300,O,196505,198510,1
+104,3,"Missile Artillery, Operating Crew",16D,HAWK Missile Crewmember,104300,O,196505,199504,1
+104,3,"Missile Artillery, Operating Crew",16E,HAWK Fire Control Crewmember,104300,O,199310,199504,1
+104,3,"Missile Artillery, Operating Crew",16F,Light Air Defense Artillery Crewmember (Reserve Forces),104300,O,196809,199203,1
+104,3,"Missile Artillery, Operating Crew",16G,ROLAND Systems Crewmember (Reserve Forces),104300,O,198109,199003,1
+104,3,"Missile Artillery, Operating Crew",16P,CHAPARRAL Crewmember,104300,O,197101,199708,1
+104,3,"Missile Artillery, Operating Crew",16S,Man Portable Air Defense Systems (MANPADS) Crewmember,104300,O,198004,199704,1
+104,3,"Missile Artillery, Operating Crew",16T,PATRIOT Missile Crewmember,104300,O,198004,199704,1
+104,3,"Missile Artillery, Operating Crew",16Z,Air Defense Artillery Senior Sergeant,104300,O,196807,199704,1
+104,3,"Missile Artillery, Operating Crew",14X,Space and Missile Defense Operations,104300,A,200610,999912,0
+104,3,"Missile Artillery, Operating Crew",14G,Air Defense (AD) Battle Management System Operator,104300,A,201104,999912,0
+104,3,"Missile Artillery, Operating Crew",14H,Air Defense (AD) Enhanced Early Warning System Operator,104300,A,201104,999912,0
+104,3,"Missile Artillery, Operating Crew",14P,Air and Missile Defense (AMD) Crewmember,104300,A,201610,999912,0
+104,3,"Missile Artillery, Operating Crew",13M,Multiple Launch Rocket System (MLRS) Crewmember,104200,O,199904,200503,0
+104,3,"Missile Artillery, Operating Crew",13P,Multiple Launch Rocket System (MLRS) Operations/Fire Direction Specialist,104300,O,199408,201710,0
+104,3,"Missile Artillery, Operating Crew",13Y,Cannon/Missile Senior Sergeant,104100,O,197604,198604,1
+104,3,"Missile Artillery, Operating Crew",14J,"Air Defense Command, Control, Communications, Computers and Intelligence Tactical Operations Center Enhanced Operator/Maintainer",104300,O,199704,201110,0
+104,3,"Missile Artillery, Operating Crew",14R,BRADLEY LINEBACKER Crewmember,104300,O,199704,200910,0
+106,3,Small Boat Operators,61A,Seaman,106200,O,196505,197405,1
+106,3,Small Boat Operators,61B,Watercraft Operator,106200,O,196505,198610,1
+106,3,Small Boat Operators,61D,Amphibian Operator,106200,O,196602,197508,1
+106,3,Small Boat Operators,61Z,Marine Senior Sergeant,106200,O,196602,198610,1
+106,3,Small Boat Operators,88K,Watercraft Operator,106200,A,198610,999912,0
+106,3,Small Boat Operators,88Y,Marine Senior Sergeant,106200,O,198610,199510,1
+108,3,"Unmanned Vehicle System (UVS) Operators, General",15W,Unmanned Aircraft Systems (UAS Operator),108000,A,200804,999912,0
+108,3,"Unmanned Vehicle System (UVS) Operators, General",35K,Unmanned Aerial Vehicle (UAV) Operator,108000,O,200704,200810,0
+108,3,"Unmanned Vehicle System (UVS) Operators, General",96U,Unmanned Aerial Vehicle Operator,108000,O,200204,200710,0
+11X,2,Electronic Equipment Repairers,See below,See below,See below,See below,See below,See below,
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",25P,Microwave Systems Operator-Maintainer,110100,A,200409,999912,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",25U,Signal Support Systems Specialist,110100,A,200409,999912,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",26L,Tactical Microwave Systems Repairer,110100,O,196505,198510,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",26V,Strategic Microwave Systems Repairer,110100,O,196803,198604,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",29T,Satellite/Microwave Communications Chief,110100,O,198610,199104,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",29W,Electronics Maintenance Supervisor,110100,O,198610,199504,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",29X,Communications Equipment Maintenance Chief,110100,O,198610,199009,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",29Z,Electronics Maintenance Chief,110100,O,198610,199504,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",31B,Field Communications-Electronics Equipment Mechanic,110100,O,196505,197710,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",31E,Field Radio Repairer,110100,O,196505,198510,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",31G,Tactical Communications Chief,110100,O,196505,199304,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",31X,Communications Systems Circuit Control Supervisor,110100,O,198610,198809,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",32D,Communications Systems Circuit Controller,110100,O,196505,198809,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",32E,Fixed Plant Carrier Repairman,110100,O,196505,197710,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",32H,Fixed Station Radio Repairer,110100,O,197202,198510,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",32Z,Communications-Electronics Maintenance Chief,110100,O,196505,198604,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",35W,Electronic Maintenance Chief,110100,O,199504,200509,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",35Z,Senior Electronics Maintenance Chief,110100,O,199904,200509,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",39W,Radar Special Electronic Devices Maintenance Chief,110100,O,198610,199009,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",39X,Electronic Equipment Maintenance Chief,110100,O,198610,199009,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",94E,Radio Equipment Repairer,110100,A,200504,999912,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",94W,Electronic Maintenance Supervisor,110100,A,200504,999912,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",94Z,Senior Electronic Maintenance Supervisor,110100,A,200504,999912,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",15N,Avionic Mechanic,110200,A,200304,999912,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",25Q,Multichannel Transmission Systems Operator-Maintainer,110200,A,200409,999912,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",25S,Satellite Communications Systems Operator-Maintainer,110200,A,200409,999912,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",25T,Satellite/Microwave Systems Chief,110200,A,200409,999912,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",26Y,SATCOM Equipment Repairer,110200,O,196505,198604,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",29Y,SATCOM Systems Repairer,110200,O,198610,199404,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",33C,Terminal Intercept Equipment Repairman,110200,O,196505,197508,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",33D,Intercept Recording Systems Repairman,110200,O,196505,197508,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",33F,Intercept Demultiplex Systems Repairman,110200,O,196706,197508,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",33G,ECM/DF Systems Repairman,110200,O,196706,197508,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",33Q,EW/Intercept Strategic Processing & Storage Subsystems Repairer,110200,O,198406,199103,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",33S,EW/Intercept Tactical System Repairer,110200,O,197508,198406,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",33T,Electronic Warfare/Intercept Tactical Systems Repairer,110200,O,198406,199610,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",33V,EW/Intercept Aerial Sensor Repairer,110200,O,198604,199310,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",33Z,EW/Intercept Systems Maintenance Supervisor,110200,O,199205,199804,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",35K,Avionic Mechanic,110200,O,196606,198810,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",35M,Avionic Navigation & Flight Control Equipment Repairer,110200,O,196606,198903,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",35N,Avionic Flight Control Equipment Repairman,110200,O,196606,197705,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",35P,Avionic Equipment Maintenance Supervisor,110200,O,196606,198903,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",35Q,Avionic Flight Systems Repairer,110200,O,199604,199904,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",35R,Avionic Special Equipment Repairer,110200,O,196809,198903,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",68L,Avionic Communications Equipment Repairer,110200,O,198903,199604,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",68Q,Avionic Flight Systems Repairer,110200,O,198903,199604,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",68R,Avionic Radar Repairer,110200,O,198903,199604,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",93D,Air Traffic Controller (ATC) Equipment Repairer,110200,O,199205,199604,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",94R,Avionic and Survivability Equipment Repairer,110200,A,200504,999912,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",35T,Military Intelligence (MI) Systems Maintainer/Integrator,110200,A,200704,999912,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",94D,Air Traffic Control Equipment Repairer,110300,A,200504,999912,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",23N,NIKE Track Radar Repairer,110400,O,196505,198610,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",23S,HAWK Pulse Radar Repairer,110400,O,196505,198001,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",23T,HAWK Continuous Wave Radar Repairman,110400,O,196505,198610,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",23U,NIKE High Power Radar-Simulator Repairer,110400,O,196601,198610,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",23W,NIKE Maintenance Chief,110400,O,196601,198610,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",24B,HAWK Continuous Wave Radar Mechanic,110400,O,196801,198004,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",24J,HAWK Pulse Radar Repairer,110400,O,197108,198810,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",24K,HAWK Continuous Wave Radar Repairer,110400,O,197108,199407,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",24P,Defense Acquisition Radar Mechanic,110400,O,196801,198604,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",26B,Weapons Support Radar Repairer,110400,O,196505,198410,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",26D,Ground Control Approach Radar Repairer,110400,O,196505,198604,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",26E,Aerial Radar Sensor Repairer,110400,O,196505,198604,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",26H,Air Defense Radar Repairer (RC),110400,O,196505,199003,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",26K,Aerial Electronic Warning Defense Equipment Repairer,110400,O,197002,198604,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",26M,Aerial Surveillance Radar Repairer (RC),110400,O,196602,198401,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",26N,Aerial Surveillance Infrared Repairer (RC),110400,O,196602,197705,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",26U,Unattended Ground Sensor Systems Repairman,110400,O,197204,197604,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",26W,Radar Maintenance Supervisor-Inspector,110400,O,196602,197705,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",27J,HAWK Field Maintenance Equipment/Pulse Acquisition Radar Repairer,110400,O,198809,199504,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",27K,HAWK Fire Control/Continuous Wave Radar Repairer,110400,O,198809,199910,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",27N,Forward Area Alerting Radar (FAAR) Repairer,110400,O,198109,199210,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",35C,Surveillance Radar Repairer,110400,O,199507,200004,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",35M,Radar Repairer,110400,O,199507,200509,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",39C,Target Acquisition Surveillance Radar Repairer,110400,O,198610,199504,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",94M,Radar Repairer,110400,A,200504,999912,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",26C,Target Acquisition Surveillance Radar Repairer,110400,O,196505,198610,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",29E,Radio Repairer,110100,O,198603,199504,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",29M,Tactical Satellite/Microwave Repairer,110100,O,198603,199104,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",29V,Microwave Systems Operator/Repairer,110100,O,198610,199310,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",31P,Microwave Systems Operator-Maintainer,110100,O,199310,200409,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",31R,Multichannel Transmission Systems Operator-Maintainer,110200,O,199507,200409,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",31S,Satellite Communications Systems Operator-Maintainer,110200,O,199408,200409,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",31T,Satellite/Microwave Systems Chief,110200,O,199408,200409,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",31U,Signal Support Systems Specialist,110100,O,199310,200409,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",31V,UL Communications Maintainer,110100,O,197710,199304,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",33M,EW/Intercept Strategic System Analyst and Command and Control Subsystem Repairer,110200,O,198406,199103,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",33P,EW/Intercept Strategic Receiving Subsystems/Repairer,110200,O,198406,199103,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",33R,Electronic Warfare/Intercept Aviation Systems Repairer,110200,O,198406,199407,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",33W,Military Intelligence Systems Maintainer/Integrator,110200,O,200204,200710,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",33Y,Strategic Systems Repairer,110200,O,199103,199407,1
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",35D,Air Traffic Control Equipment Repairer,110200,O,199604,200510,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",35E,Radio and Communications Security (COMSEC) Repairer,110100,O,199507,200510,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",35L,Avionic Communications Equipment Repairer,110200,O,196606,200510,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",35R,Avionic Systems Repairer,110200,O,199604,200510,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",68J,Aircraft Armament/Missile Systems Repairer (RC),110200,O,199205,200410,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",68N,Avionic Mechanic,110200,O,198903,200409,0
+110,3,"Navigation, Communication, and Countermeasure, N.E.C.",94L,Avionic Communications Equipment Repairer,110200,O,200504,201110,0
+111,3,Shipboard and Other Fire Control,35J,Aircraft Fire Control Repairman,111200,O,196808,197610,1
+111,3,Shipboard and Other Fire Control,34G,Fire Control Computer Repairer,111300,O,196505,198103,1
+111,3,Shipboard and Other Fire Control,34L,Field Artillery Digital Systems Repairer,111300,O,198406,198610,1
+111,3,Shipboard and Other Fire Control,34Y,FA Computer Repairer,111300,O,198103,198610,1
+111,3,Shipboard and Other Fire Control,39Y,Field Artillery Tactical Fire Direction Systems Repairer,111300,O,198610,199203,1
+111,3,Shipboard and Other Fire Control,45G,Fire Control Repairer,111300,O,199205,200910,0
+111,3,Shipboard and Other Fire Control,91G,Fire Control Repairer,111300,O,200904,201810,0
+112,3,Missile Guidance and Control,21G,PERSHING Electronics Materiel Specialist,112100,O,196505,199210,1
+112,3,Missile Guidance and Control,21L,PERSHING Electronics Repairer,112100,O,196801,199109,1
+112,3,Missile Guidance and Control,22K,HAWK Missile-Launcher Repairer,112100,O,196505,198610,1
+112,3,Missile Guidance and Control,22L,NIKE Test Equipment Repairer,112100,O,196601,198610,1
+112,3,Missile Guidance and Control,22N,NIKE-HERCULES Missile-Launcher Repairer,112100,O,197405,198610,1
+112,3,Missile Guidance and Control,23Q,HAWK Fire Control Repairer,112100,O,196506,198004,1
+112,3,Missile Guidance and Control,23V,HAWK Maintenance Chief,112100,O,196606,198610,1
+112,3,Missile Guidance and Control,24D,HAWK Missile Launcher Mechanic,112100,O,196809,198704,1
+112,3,Missile Guidance and Control,24E,HAWK Fire Control Mechanic (RC),112100,O,197108,198704,1
+112,3,Missile Guidance and Control,24F,HAWK Fire Control Mechanic,112100,O,196801,198004,1
+112,3,Missile Guidance and Control,24L,HAWK Launcher/Mechanical Systems Repairer,112100,O,197604,198810,1
+112,3,Missile Guidance and Control,24Q,NIKE-HERCULES Fire Control Mechanic,112100,O,196801,198604,1
+112,3,Missile Guidance and Control,24S,ROLAND System Mechanic,112100,O,198109,199004,1
+112,3,Missile Guidance and Control,24U,NIKE-HERCULES Custodial Mechanic,112100,O,196809,199004,1
+112,3,Missile Guidance and Control,24V,HAWK Maintenance Chief,112100,O,197108,198809,1
+112,3,Missile Guidance and Control,24W,SGT YORK Air Defense Gun Systems Mechanic,112100,O,198308,198610,1
+112,3,Missile Guidance and Control,27B,Land Combat Support System Test Specialist,112100,O,196701,199504,1
+112,3,Missile Guidance and Control,27C,ROLAND Repairer (RC),112100,O,198109,198910,1
+112,3,Missile Guidance and Control,27F,VULCAN Repairer,112100,O,196803,199510,1
+112,3,Missile Guidance and Control,27H,HAWK Field Maintenance/Firing Section Repairer,112100,O,199507,199910,1
+112,3,Missile Guidance and Control,27L,LANCE System Repairer,112100,O,198303,199310,1
+112,3,Missile Guidance and Control,27P,SGT YORK Air Defense Gun Radar/Electrical Repairer,112100,O,198308,198610,1
+112,3,Missile Guidance and Control,27V,HAWK Maintenance Chief,112100,O,198809,199404,1
+112,3,Missile Guidance and Control,28M,Anti-Ballistic Missile Maintenance Specialist,112100,O,197204,197710,1
+112,3,Missile Guidance and Control,35B,Land Combat Support Systems (LCSS) Test Specialist,112100,O,199507,200004,0
+112,3,Missile Guidance and Control,35P,Multiple Launch Rocket System (MLRS) Repairer,112100,O,200404,200509,0
+112,3,Missile Guidance and Control,35S,PATRIOT System Repairer,112100,O,200404,200509,0
+112,3,Missile Guidance and Control,35T,AVENGER System Repairer,112100,O,200404,200509,0
+112,3,Missile Guidance and Control,35V,Electronic and Missile Systems Maintenance Chief,112100,O,200404,200509,0
+112,3,Missile Guidance and Control,46D,Improved HAWK Mechanical Systems Repairman,112100,O,196505,197604,1
+112,3,Missile Guidance and Control,94A,Land Combat Electronic Missile System Repairer,112100,A,200504,999912,0
+112,3,Missile Guidance and Control,94P,Multiple Launch Rocket System (MLRS) Repairer,112100,A,200504,999912,0
+112,3,Missile Guidance and Control,94S,PATRIOT System Repairer,112100,A,200504,999912,0
+112,3,Missile Guidance and Control,94T,Short Range Air Defense System Repairer,112100,A,200504,999912,0
+112,3,Missile Guidance and Control,23B,CORPORAL Fire Control Mechanic,112100,O,196505,199407,1
+112,3,Missile Guidance and Control,24G,HAWK Information Coordination Central Mechanic,112200,O,197108,199504,1
+112,3,Missile Guidance and Control,24H,HAWK Fire Control Repairer,112200,O,197108,198809,1
+112,3,Missile Guidance and Control,27D,ROLAND FMTS Repairer (RC),112200,O,198109,199003,1
+112,3,Missile Guidance and Control,27Q,SGT YORK Air Defense Gun System Test Specialist,112200,O,198308,198610,1
+112,3,Missile Guidance and Control,21R,SERGEANT Firing Set Repairman,112100,O,196701,197705,1
+112,3,Missile Guidance and Control,21S,SERGEANT Missile Guidance Repairman,112100,O,196701,197705,1
+112,3,Missile Guidance and Control,21T,SERGEANT Test Equipment Repairman,112100,O,196701,197705,1
+112,3,Missile Guidance and Control,21U,SERGEANT Maintenance Chief,112100,O,196701,197705,1
+112,3,Missile Guidance and Control,27E,Land Combat Electronic Missile System Repairer,112100,O,199408,200409,0
+112,3,Missile Guidance and Control,27G,CHAPARRAL/REDEYE Repairer,112100,O,197101,200510,0
+112,3,Missile Guidance and Control,27M,Multiple Launch Rocket System (MLRS) Repairer,112100,O,198209,200410,0
+112,3,Missile Guidance and Control,27T,AVENGER System Repairer,112100,O,199003,200410,0
+112,3,Missile Guidance and Control,27X,PATRIOT System Repairer,112100,O,199003,200410,0
+112,3,Missile Guidance and Control,27Z,Missile Systems Maintenance Chief,112100,O,199408,200410,0
+112,3,Missile Guidance and Control,35A,Land Combat Electronics Missile System Repairer,112100,O,200404,200510,0
+112,3,Missile Guidance and Control,94V,Electronic and Missile Systems Maintenance Chief,112100,O,200504,200610,0
+112,3,Missile Guidance and Control,94X,Senior Missile Systems Maintainer,112100,O,200904,201610,0
+115,3,"ADP Computers, General",14L,AN/TSQ-73 Air Defense Artillery Command and Control System Operator/Maintainer,115000,O,199704,200104,0
+115,3,"ADP Computers, General",25G,Mobile Air Defense Command Post Monitor Repairman,115000,O,196505,197710,1
+115,3,"ADP Computers, General",25H,Radar Data Processing Equipment Repairman,115000,O,196505,197710,1
+115,3,"ADP Computers, General",25K,AN/TSQ-51 System Repairer/Maintenance Chief,115000,O,196704,198004,1
+115,3,"ADP Computers, General",25L,AN/TSQ-73 ADA Command & Control System Operator/Maintainer,115000,O,199205,199704,1
+115,3,"ADP Computers, General",29G,Digital Communications Equipment Repairer,115000,O,198610,198810,1
+115,3,"ADP Computers, General",29H,ADMSE Repairer,115000,O,198610,198810,1
+115,3,"ADP Computers, General",29U,Digital Equipment Maintenance Chief,115000,O,198610,198810,1
+115,3,"ADP Computers, General",34B,Card Punch Machine Repairer,115000,O,196505,198410,1
+115,3,"ADP Computers, General",34C,Decentralized Auto Support Systems (DAS3) Computer Repairer,115000,O,197810,198410,1
+115,3,"ADP Computers, General",34D,ADPS Repairman,115000,O,196505,197503,1
+115,3,"ADP Computers, General",34E,NCR 500 Computer Repairer,115000,O,197309,198410,1
+115,3,"ADP Computers, General",34F,DSTE Repairer,115000,O,197309,198604,1
+115,3,"ADP Computers, General",34H,ADMSE Repairer,115000,O,197309,198604,1
+115,3,"ADP Computers, General",34J,Univac 1004/1005 DCT 9000 System Repairer,115000,O,197309,198410,1
+115,3,"ADP Computers, General",34K,IBM 360 Repairer,115000,O,197309,198610,1
+115,3,"ADP Computers, General",34M,SDS 920 Equipment Repairman,115000,O,197309,197610,1
+115,3,"ADP Computers, General",34T,Tactical Computer Systems Repairer,115000,O,198410,198610,1
+115,3,"ADP Computers, General",34Z,ADP Maintenance Supervisor,115000,O,197506,198610,1
+115,3,"ADP Computers, General",39D,DAS3 Computer Systems Repairer,115000,O,198610,199407,1
+115,3,"ADP Computers, General",39G,Automated Communications Computer Systems Repairer,115000,O,198903,199504,1
+115,3,"ADP Computers, General",39K,IBM ADPS Repairer,115000,O,198704,198903,1
+115,3,"ADP Computers, General",39L,Field Artillery Digital Systems Repairer,115000,O,198704,199203,1
+115,3,"ADP Computers, General",39T,Tactical Computer System Repairer,115000,O,198704,198909,1
+115,3,"ADP Computers, General",39V,Computerized System Maintenance Chief,115000,O,198704,199404,1
+115,3,"ADP Computers, General",25D,BIRDIE Repairman,115000,O,196505,197710,1
+115,3,"ADP Computers, General",25J,Operations Central Repairer,115000,O,196505,198212,1
+115,3,"ADP Computers, General",74G,Telecommunications Computer Operator-Maintainer,115000,O,199507,200309,0
+116,3,"Teletype and Cryptographic Equipment, General",29F,Fixed COMSEC Equipment Repairer,116000,O,198509,199009,1
+116,3,"Teletype and Cryptographic Equipment, General",29J,Teletypewriter Equipment Repairer,116000,O,198603,199504,1
+116,3,"Teletype and Cryptographic Equipment, General",29P,COMSEC Maintenance Chief,116000,O,198509,199009,1
+116,3,"Teletype and Cryptographic Equipment, General",29S,Communications Security Equipment Repairer,116000,O,198509,199504,1
+116,3,"Teletype and Cryptographic Equipment, General",31J,Teletypewriter,116000,O,196505,198510,1
+116,3,"Teletype and Cryptographic Equipment, General",32F,Fixed Ciphony Repairer,116000,O,196509,198504,1
+116,3,"Teletype and Cryptographic Equipment, General",32G,Fixed Cryptographic Equipment Repairer,116000,O,196505,198504,1
+116,3,"Teletype and Cryptographic Equipment, General",35J,Computer/Automation Systems Repairer,116000,O,199810,200409,0
+119,3,"Electronic Instruments, N.E.C.",84D,Audio Specialist,119100,O,196505,197610,1
+119,3,"Electronic Instruments, N.E.C.",26F,Aerial Photo Sensor Repairer,119800,O,196505,198604,1
+119,3,"Electronic Instruments, N.E.C.",26P,Radio Propagation Specialist,119800,O,196505,197710,1
+119,3,"Electronic Instruments, N.E.C.",35D,Meteorological Equipment Repairman,119800,O,196505,197710,1
+119,3,"Electronic Instruments, N.E.C.",35F,Special Electronic Devices Repairer,119800,O,199507,200509,0
+119,3,"Electronic Instruments, N.E.C.",35H,TMDE Maintenance Support Specialist,119800,O,196505,200509,0
+119,3,"Electronic Instruments, N.E.C.",35K,APACHE Attack Helicopter Systems Repairer,119800,O,200404,200509,0
+119,3,"Electronic Instruments, N.E.C.",35S,Electronic Biomedical Equipment Repairer,119800,O,197405,198001,1
+119,3,"Electronic Instruments, N.E.C.",39E,Special Electronics Devices Repairer,119800,O,198704,199504,1
+119,3,"Electronic Instruments, N.E.C.",41E,Audio-Visual Equipment Repairer,119800,O,196505,198909,1
+119,3,"Electronic Instruments, N.E.C.",41F,Projector Repairman,119800,O,196505,197610,1
+119,3,"Electronic Instruments, N.E.C.",41G,Aerial Surveillance Photo Equipment Repairer (RC),119800,O,196505,198401,1
+119,3,"Electronic Instruments, N.E.C.",41H,Photographic Equipment Repair Chief,119800,O,196505,197610,1
+119,3,"Electronic Instruments, N.E.C.",94F,Computer/Detection Systems Repairer,119800,A,200504,999912,0
+119,3,"Electronic Instruments, N.E.C.",94H,"Test, Measurement, and Diagnostic Equipment (TMDE) Maintenance Support Specialist",119800,A,200504,999912,0
+119,3,"Electronic Instruments, N.E.C.",94Y,Automatic Test Systems Operator/Maintainer,119800,A,200504,999912,0
+119,3,"Electronic Instruments, N.E.C.",35E,Special Electrical Devices Repairer,119800,O,196505,198610,1
+119,3,"Electronic Instruments, N.E.C.",35T,X-Ray Biomedical Equipment Repairer,119800,O,197405,198001,1
+119,3,"Electronic Instruments, N.E.C.",35Y,Integrated Family of Test Equipment Operator/Maintainer,119800,O,199103,200510,0
+119,3,"Electronic Instruments, N.E.C.",39B,Automatic Test Equipment Operator/Maintainer,119800,O,200004,200409,0
+119,3,"Electronic Instruments, N.E.C.",94K,APACHE Attack Helicopter Systems Repairer,119800,O,200504,201110,0
+12X,2,Communications and Intelligence Specialists,See below,See below,See below,See below,See below,See below,
+120,3,Radio Operators ,05B,Radio Operator,120100,O,196505,198401,1
+120,3,Radio Operators ,05C,Radio Teletype Operator,120100,O,196505,198401,1
+120,3,Radio Operators ,05E,Voice-Radio Operator,120100,O,197105,197710,1
+120,3,Radio Operators ,05F,Radio Teletypewriter Operator (Non-Morse),120100,O,197105,197710,1
+120,3,Radio Operators ,25C,Radio Operator-Maintainer,120100,A,200409,999912,0
+120,3,Radio Operators ,26Q,Tactical Satellite/Microwave Systems Operator,120100,O,197710,198610,1
+120,3,Radio Operators ,26R,Strategic Microwave Systems Operator,120100,O,197710,198506,1
+120,3,Radio Operators ,25E,Electromagnetic Spectrum Manager,120100,A,200704,999912,0
+120,3,Radio Operators ,31C,Radio Operator-Maintainer,120100,O,199507,200410,0
+120,3,Radio Operators ,31K,Combat Signaler,120100,O,199205,199304,1
+120,3,Radio Operators ,31M,Multichannel Transmission Systems Operator,120200,O,196505,199504,1
+120,3,Radio Operators ,31Q,Tactical Satellite Microwave Systems Operator,120100,O,198610,199109,1
+122,3,Air Traffic Control ,16J,Defense Acquisition Radar Operator,122100,O,196803,199210,1
+122,3,Air Traffic Control ,17B,Field Artillery Radar Crewmember,122100,O,196505,199310,1
+122,3,Air Traffic Control ,17K,Ground Surveillance Radar Crewman,122100,O,196803,198410,1
+122,3,Air Traffic Control ,13R,Field Artillery (FA) Firefinder Radar Operator,122100,A,199205,999912,0
+122,3,Air Traffic Control ,17A,Combat Surveillance & Target Acquisition Crewman,122100,O,196803,197604,1
+122,3,Air Traffic Control ,17M,Remote Sensor Specialist,122100,O,197204,198410,1
+122,3,Air Traffic Control ,17Z,Combat Surveillance & Target Acquisition NCO,122100,O,196803,197604,1
+122,3,Air Traffic Control,15Q,Air Traffic Control (ATC) Operator,122200,A,200304,999912,0
+122,3,Air Traffic Control,93H,Air Traffic Control Tower Operator,122200,O,196809,198710,1
+122,3,Air Traffic Control,93J,Air Traffic Control Radar Controller,122200,O,196809,198710,1
+122,3,Air Traffic Control,93K,ATC Approach Control/Enroute Specialist,122200,O,196809,197508,1
+122,3,Air Traffic Control,93L,ATC Chief,122200,O,196809,197508,1
+122,3,Air Traffic Control,93C,Air Traffic Control Operator,122200,O,198710,200409,0
+123,3,Intercept Operators (Code and Non-Code),05D,EW/SIGINT Emitter Identifier/Locator,123100,O,196505,199003,1
+123,3,Intercept Operators (Code and Non-Code),05G,Signal Security Specialist,123100,O,196505,198410,1
+123,3,Intercept Operators (Code and Non-Code),05H,EW/SIGINT Morse Interceptor,123100,O,196505,199003,1
+123,3,Intercept Operators (Code and Non-Code),05K,EW/SIGINT Non-Morse Interceptor,123100,O,196505,199003,1
+123,3,Intercept Operators (Code and Non-Code),35Z,Signals Intelligence (SIGINT) Senior Sergeant/SIGINT Chief,123000,A,200704,999912,0
+123,3,Intercept Operators (Code and Non-Code),35Q,Cryptologic Network Warfare Specialist,123000,A,201204,999912,0
+123,3,Intercept Operators (Code and Non-Code),35V,Chief Signals Intelligence (SIGINT) Sergeant,123000,A,201404,999912,0
+123,3,Intercept Operators (Code and Non-Code),97G,Multi-Discipline Counter-Intelligence Operator/Analyst,123100,O,199507,199804,1
+123,3,Intercept Operators (Code and Non-Code),29E,Electronic Warfare Specialist,123300,O,200903,201810,0
+123,3,Intercept Operators (Code and Non-Code),35P,Signals Intelligence (SIGINT) Voice Interceptor,123100,A,200704,999912,0
+123,3,Intercept Operators (Code and Non-Code),98B,EW/Cryptanalytic Cryptanalyst,123200,O,196505,197610,1
+123,3,Intercept Operators (Code and Non-Code),35N,Signals Intelligence Analyst,123200,A,200704,999912,0
+123,3,Intercept Operators (Code and Non-Code),17E,Electronic Warfare Specialist,123300,A,201810,999912,0
+123,3,Intercept Operators (Code and Non-Code),17L,Aerial Sensor Specialist (RC),123300,O,196803,198410,1
+123,3,Intercept Operators (Code and Non-Code),35S,Signals Collector/Analyst,123300,A,200704,999912,0
+123,3,Intercept Operators (Code and Non-Code),35H,Common Ground Station (CGS) Analyst,123300,O,200704,201110,0
+123,3,Intercept Operators (Code and Non-Code),35U,Multi Sensor Operator,123100,O,200704,200710,0
+123,3,Intercept Operators (Code and Non-Code),96H,Common Ground Station Operator,123300,O,200010,200710,0
+123,3,Intercept Operators (Code and Non-Code),98C,Signals Intelligence Analyst,123200,O,196505,200710,0
+123,3,Intercept Operators (Code and Non-Code),98D,Emitter Locator/Identifier,123100,O,199205,199903,1
+123,3,Intercept Operators (Code and Non-Code),98G,Cryptologic Communications Interceptor/Locator,123100,O,200504,200710,0
+123,3,Intercept Operators (Code and Non-Code),98H,Communications Interceptor/Locator,123100,O,200204,200510,0
+123,3,Intercept Operators (Code and Non-Code),98J,Electronic Intelligence Interceptor/Analyst,123300,O,199904,200510,0
+123,3,Intercept Operators (Code and Non-Code),98K,Signals Collection/Identification Analyst,123100,O,199904,200510,0
+123,3,Intercept Operators (Code and Non-Code),98P,Multi-Sensor Operator,123100,O,200504,200710,0
+123,3,Intercept Operators (Code and Non-Code),98Y,Signals Collector/Analyst,123300,O,200504,200710,0
+123,3,Intercept Operators (Code and Non-Code),98Z,Signals Intelligence (Electronic Warfare) Senior Sergeant/Chief,123000,O,200204,200710,0
+124,3,Operational Intelligence,04B,Translator-Interpreter,124100,O,196505,197604,1
+124,3,Operational Intelligence,04C,Expert Linguist,124100,O,196505,197604,1
+124,3,Operational Intelligence,09L,Interpreter/Translator,124100,A,200404,999912,0
+124,3,Operational Intelligence,96C,Interrogator,124100,O,196505,198410,1
+124,3,Operational Intelligence,35M,Human Intelligence Collector,124100,A,200704,999912,0
+124,3,Operational Intelligence,35G,Geospatial Intelligence Imagery Analyst,124200,A,200704,999912,0
+124,3,Operational Intelligence,37F,Psychological Operations Specialist,124300,A,199103,999912,0
+124,3,Operational Intelligence,71S,Attache Specialist,124300,O,196505,198809,1
+124,3,Operational Intelligence,96F,Psychological Operations Specialist,124300,O,198406,199103,1
+124,3,Operational Intelligence,35F,Intelligence Analyst,124300,A,200704,999912,0
+124,3,Operational Intelligence,35X,Intelligence Senior Sergeant/Chief Intelligence Sergeant,124300,A,200704,999912,0
+124,3,Operational Intelligence,97C,Area Intelligence Specialist,124400,O,196505,198604,1
+124,3,Operational Intelligence,97D,Military Intelligence Coordinator,124400,O,196505,197604,1
+124,3,Operational Intelligence,35L,Counter Intelligence Agent,124400,A,200704,999912,0
+124,3,Operational Intelligence,35Y,Chief Counterintelligence/Human Intelligence Sergeant,124400,A,200704,999912,0
+124,3,Operational Intelligence,96B,Intelligence Analyst,124300,O,196505,200710,0
+124,3,Operational Intelligence,96D,Imagery Analyst,124200,O,196505,200710,0
+124,3,Operational Intelligence,96R,Ground Surveillance Systems Operator,124300,O,199904,200710,0
+124,3,Operational Intelligence,96Z,Intelligence Senior Sergeant,124300,O,197604,200710,0
+124,3,Operational Intelligence,97B,Counterintelligence Agent,124400,O,196505,200710,0
+124,3,Operational Intelligence,97E,Human Intelligence Collector,124100,O,200010,200710,0
+124,3,Operational Intelligence,97L,Translator/Interpreter (RC),124100,O,199904,200710,0
+124,3,Operational Intelligence,97Z,"Counterintelligence/Human Intelligence, Senior Sergeant",124400,O,199205,200710,0
+125,3,"Combat Operations Control, General",11D,Armor Reconnaissance Specialist,125000,O,196505,197710,1
+125,3,"Combat Operations Control, General",13C,Tactical Automated Fire Control Systems Specialist,125000,O,199205,201310,0
+125,3,"Combat Operations Control, General",13D,Field Artillery Automated Tactical Data System Specialist,125000,O,199804,201710,0
+125,3,"Combat Operations Control, General",13W,Field Artillery Target Acquisition Senior Sergeant,125000,O,197604,198604,1
+125,3,"Combat Operations Control, General",13E,Cannon Fire Direction Specialist,125000,O,196505,201310,0
+125,3,"Combat Operations Control, General",13F,Joint Fire Support Specialist,125000,A,199205,999912,0
+125,3,"Combat Operations Control, General",13T,Remotely Piloted Vehicle Crewmember,125000,O,198510,199103,1
+125,3,"Combat Operations Control, General",16H,Air Defense Artillery Operations & Intelligence Assistant,125000,O,196505,199003,1
+125,3,"Combat Operations Control, General",17C,Field Artillery Target Acquisition Specialist,125000,O,197604,198710,1
+125,3,"Combat Operations Control, General",19D,Cavalry Scout,125000,A,197710,999912,0
+125,3,"Combat Operations Control, General",93B,Aeroscout Observer,125000,O,199205,199804,1
+125,3,"Combat Operations Control, General",13J,Fire Control Specialist,125000,A,201710,999912,0
+126,3,"Communications Center Operations, General",25D,Telecommunications Operator-Maintainer,126000,O,200409,200710,0
+126,3,"Communications Center Operations, General",31F,Network Switching Systems Operator-Maintainer,126000,O,199408,200410,0
+126,3,"Communications Center Operations, General",31W,Telecommunications Operations Chief,126000,O,199408,200409,0
+126,3,"Communications Center Operations, General",31Z,Senior Signal Sergeant,126000,O,199408,200409,0
+126,3,"Communications Center Operations, General",25F,Network Switching Systems Operator-Maintainer,126000,O,200409,201310,0
+126,3,"Communications Center Operations, General",25W,Telecommunications Operations Chief,126000,A,200409,999912,0
+126,3,"Communications Center Operations, General",25X,Chief Signal NCO,126000,A,200409,999912,0
+126,3,"Communications Center Operations, General",31D,MSE Transmission System Operator,126000,O,199205,199504,1
+126,3,"Communications Center Operations, General",31N,Communications Systems/Circuit Controller,126000,O,196606,199404,1
+126,3,"Communications Center Operations, General",31Y,Telecommunications Systems Supervisor,126000,O,198610,199506,1
+126,3,"Communications Center Operations, General",72B,Communications Center Specialist,126000,O,196505,197405,1
+126,3,"Communications Center Operations, General",72C,Central Office Switchboard Operator,126000,O,196505,197709,1
+126,3,"Communications Center Operations, General",72D,Cryptographic Center Specialist,126000,O,196505,197709,1
+126,3,"Communications Center Operations, General",72E,Tactical Telecommunications Center Operator,126000,O,197405,199009,1
+126,3,"Communications Center Operations, General",72F,Data Communications Center Specialist,126000,O,196809,197405,1
+126,3,"Communications Center Operations, General",72G,Automatic Data Telecommunications Operator,126000,O,196809,198604,1
+126,3,"Communications Center Operations, General",72H,Central Office Operations Operator,126000,O,196909,198604,1
+126,3,"Communications Center Operations, General",25N,Nodal Network Systems Operator-Maintainer,126000,A,200601,999912,0
+126,3,"Communications Center Operations, General",74C,Data Analysis Specialist,126000,O,196505,199407,1
+126,3,"Communications Center Operations, General",74C,Record Telecommunications Operator-Maintainer,126000,O,199507,199903,1
+126,3,"Communications Center Operations, General",74C,Telecommunications Operator-Maintainer,126000,O,199904,200409,0
+127,3,"Cyberspace Operations, General",25D,Cyber Network Defender,127000,A,201312,999912,0
+127,3,"Cyberspace Operations, General",17C,Cyber Operations Specialist,127000,A,201510,999912,0
+13X,2,Health Care Specialists,See below,See below,See below,See below,See below,See below,
+130,3,"Medical Care and Treatment, General",68W,Combat Medic Specialist,130000,A,200604,999912,0
+130,3,"Medical Care and Treatment, General",68Z,Chief Medical NCO,130000,A,200604,999912,0
+130,3,"Medical Care and Treatment, General",91A,Medical Specialist,130000,O,198401,199109,1
+130,3,"Medical Care and Treatment, General",91N,Cardiac Specialist,130000,O,196505,199504,1
+130,3,"Medical Care and Treatment, General",68N,Cardiovascular Specialist,130000,A,201304,999912,0
+130,3,"Medical Care and Treatment, General",68U,"Ear, Nose, and Throat (ENT) Specialist",130000,A,201304,999912,0
+130,3,"Medical Care and Treatment, General",68D,Operating Room Specialist,130100,A,200604,999912,0
+130,3,"Medical Care and Treatment, General",91U,"Ear, Nose, & Throat (ENT) Specialist",130100,O,196505,199410,1
+130,3,"Medical Care and Treatment, General",68X,Behavioral Health Specialist,130200,A,200604,999912,0
+130,3,"Medical Care and Treatment, General",68F,Physical Therapy Specialist,130300,A,201304,999912,0
+130,3,"Medical Care and Treatment, General",68L,Occupational Therapy Specialist,130300,A,201304,999912,0
+130,3,"Medical Care and Treatment, General",68B,Orthopedic Specialist,130400,A,201304,999912,0
+130,3,"Medical Care and Treatment, General",68C,Practical Nursing Specialist,130600,A,201304,999912,0
+130,3,"Medical Care and Treatment, General",68V,Respiratory Specialist,130700,A,200604,999912,0
+130,3,"Medical Care and Treatment, General",42C,Orthotic Specialist,130400,O,196505,199410,1
+130,3,"Medical Care and Treatment, General",91C,Practical Nurse,130600,O,196505,200104,0
+130,3,"Medical Care and Treatment, General",91D,Operating Room Specialist,130100,O,196505,200610,0
+130,3,"Medical Care and Treatment, General",91F,Psychiatric Specialist,130200,O,196505,199610,1
+130,3,"Medical Care and Treatment, General",91G,Behavioral Science Specialist,130200,O,196505,199610,1
+130,3,"Medical Care and Treatment, General",91H,Orthopedic Specialist,130400,O,199205,199410,1
+130,3,"Medical Care and Treatment, General",91J,Physical Therapy Specialist,130300,O,196505,199410,1
+130,3,"Medical Care and Treatment, General",91K,Physical Reconditioning Specialist,130300,O,196505,197311,1
+130,3,"Medical Care and Treatment, General",91L,Occupational Therapy Specialist,130300,O,196505,199410,1
+130,3,"Medical Care and Treatment, General",91V,Respiratory Specialist,130700,O,197303,200610,0
+130,3,"Medical Care and Treatment, General",91W,Health Care Specialist,130000,O,200004,200610,0
+130,3,"Medical Care and Treatment, General",91X,Mental Health Specialist,130200,O,199610,200610,0
+130,3,"Medical Care and Treatment, General",91Z,Medical Senior Sergeant,130000,O,196601,197604,1
+130,3,"Medical Care and Treatment, General",91Z,Chief Medical NCO,130000,O,200004,200610,0
+131,3,Radiology ,01H,Biological Sciences Assistant,131100,O,196507,199410,1
+131,3,Radiology ,68K,Medical Laboratory Specialist,131100,A,200604,999912,0
+131,3,Radiology ,92B,Medical Laboratory Specialist,131100,O,196505,199410,1
+131,3,Radiology ,92E,Cytology Specialist,131100,O,198103,199410,1
+131,3,Radiology ,91M,Electroencepthalography Specialist,131100,O,196505,197311,1
+131,3,Radiology ,68Q,Pharmacy Specialist,131200,A,200604,999912,0
+131,3,Radiology ,68P,Radiology Specialist,131300,A,200604,999912,0
+131,3,Radiology ,91W,Nuclear Medicine Specialist,131300,O,197503,199410,1
+131,3,Radiology ,91B,Medical Specialist,131100,O,199205,200104,0
+131,3,Radiology ,91K,Medical Laboratory Specialist,131100,O,199507,200610,0
+131,3,Radiology ,91P,Radiology Specialist,131300,O,199507,200610,0
+131,3,Radiology ,91Q,Pharmacy Specialist,131200,O,196505,200610,0
+132,3,Diet Therapy ,35G,"Medical Equipment Repairer, Unit Level",132600,O,196505,199410,1
+132,3,Diet Therapy ,35U,"Medical Equipment Repairer, Advanced",132600,O,197405,199410,1
+132,3,Diet Therapy ,68R,Veterinary Food Inspection Specialist,132100,A,200604,999912,0
+132,3,Diet Therapy ,68T,Animal Care Specialist,132100,A,200604,999912,0
+132,3,Diet Therapy ,68S,Preventive Medicine Specialist,132200,A,200604,999912,0
+132,3,Diet Therapy ,42E,Optical Laboratory Specialist,132300,O,196505,200104,0
+132,3,Diet Therapy ,68H,Optical Laboratory Specialist,132300,A,200604,999912,0
+132,3,Diet Therapy ,68Y,Eye Specialist,132300,A,201304,999912,0
+132,3,Diet Therapy ,68M,Nutrition Care Specialist,132500,A,200604,999912,0
+132,3,Diet Therapy ,94F,Hospital Food Service Specialist,132500,O,196602,199009,1
+132,3,Diet Therapy ,68A,Biomedical Equipment Specialist,132600,A,200604,999912,0
+132,3,Diet Therapy ,91A,Medical Equipment Repairer,132600,O,199507,200610,0
+132,3,Diet Therapy ,91H,Optical Laboratory Specialist,132300,O,200010,200610,0
+132,3,Diet Therapy ,91M,Nutrition Care Specialist,132500,O,200204,200610,0
+132,3,Diet Therapy ,91R,Veterinary Food Inspection Specialist,132100,O,196505,200610,0
+132,3,Diet Therapy ,91S,Preventive Medicine Specialist,132200,O,196505,200610,0
+132,3,Diet Therapy ,91T,Animal Care Specialist,132100,O,196505,200610,0
+132,3,Diet Therapy ,91X,Health Physics Specialist,132200,O,198212,199410,1
+132,3,Diet Therapy ,91Y,Eye Specialist,132300,O,197503,199410,1
+133,3,"Dental Care, General",68E,Dental Specialist,133000,A,200604,999912,0
+133,3,"Dental Care, General",42D,Dental Laboratory Specialist,133100,O,196505,199410,1
+133,3,"Dental Care, General",42F,Dental Fixed Prosthetic Specialist,133100,O,196706,197604,1
+133,3,"Dental Care, General",91E,Dental Specialist,133000,O,196505,200610,0
+134,3,Medical Administration,68G,Patient Administration Specialist,134000,A,200604,999912,0
+134,3,Medical Administration,68J,Medical Logistics Specialist,134100,A,200604,999912,0
+134,3,Medical Administration,76J,Medical Supply Specialist,134100,O,196505,200110,0
+134,3,Medical Administration,71G,Patient Administration Specialist,134000,O,196505,200104,0
+134,3,Medical Administration,91G,Patient Administration Specialist,134000,O,200010,200610,0
+134,3,Medical Administration,91J,Medical Logistics Specialist,134100,O,199904,200610,0
+14X,2,Other Allied Professions,See below,See below,See below,See below,See below,See below,
+140,3,"Photography, General",25P,Visual Information/Audio Documentation Systems Specialist,140000,O,198903,199404,1
+140,3,"Photography, General",25S,Still Documentation Specialist,140000,O,198903,199407,1
+140,3,"Photography, General",25M,Multimedia Illustrator,140000,A,199404,999912,0
+140,3,"Photography, General",25R,Visual Information Equipment Operator-Maintainer,140000,A,198903,999912,0
+140,3,"Photography, General",25V,Combat Documentation/Production Specialist,140000,A,199404,999912,0
+140,3,"Photography, General",25Z,Visual Information Operations Chief,140000,A,198604,999912,0
+140,3,"Photography, General",84B,Still Photographic Specialist,140000,O,196505,198903,1
+140,3,"Photography, General",84C,Motion Picture Specialist,140000,O,196505,198903,1
+140,3,"Photography, General",84F,Audio/Television Specialist,140000,O,196505,198903,1
+140,3,"Photography, General",84G,Photographic Laboratory Specialist,140000,O,196505,197610,1
+140,3,"Photography, General",84E,Television Cameraman,140000,O,196505,197610,1
+141,3,Surveying,21S,Topographic Surveyor,141200,O,200309,200810,0
+141,3,Surveying,21T,Technical Engineer,141300,O,200309,201010,0
+141,3,Surveying,21U,Topographic Analyst,141100,O,200309,200810,0
+141,3,Surveying,21Y,Geospatial Engineer,141200,O,200309,201010,0
+141,3,Surveying,51T,Technical Engineering Specialist,141300,O,199408,200409,0
+141,3,Surveying,81C,Cartographer,141100,O,196505,199704,1
+141,3,Surveying,81Q,Terrain Analyst,141100,O,199205,199704,1
+141,3,Surveying,13S,Field Artillery Surveyor,141200,O,200309,201010,0
+141,3,Surveying,17D,Flash Ranging Crewman,141200,O,196505,197604,1
+141,3,Surveying,82A,Rodman & Tapeman,141200,O,196505,197610,1
+141,3,Surveying,82B,Construction Surveyor,141200,O,196505,199404,1
+141,3,Surveying,82E,Topographic Computer,141200,O,196505,197610,1
+141,3,Surveying,12Y,Geospatial Engineer,141200,A,201004,999912,0
+141,3,Surveying,13T,Field Artillery Surveyor/Meteorological Crewmember,141200,O,201004,201710,0
+141,3,Surveying,17C,Sound Ranging Crewman,141200,O,196505,197603,1
+141,3,Surveying,81A,General Draftsman,141300,O,196505,197610,1
+141,3,Surveying,81B,Technical Drafting Specialist,141300,O,196505,199404,1
+141,3,Surveying,12T,Technical Engineer,141300,A,201004,999912,0
+141,3,Surveying,25Q,Graphics Documentation Specialist,141400,O,198903,199404,1
+141,3,Surveying,81E,Illustrator,141400,O,196505,198810,1
+141,3,Surveying,81T,Topographic Analyst,141100,O,199704,200409,0
+141,3,Surveying,81Z,Topographic Engineering Supervisor,141200,O,197610,200409,0
+141,3,Surveying,82C,Field Artillery Surveyor,141200,O,196505,200409,0
+141,3,Surveying,82D,Topographic Surveyor,141200,O,196505,200409,0
+142,3,"Weather, General",13W,Field Artillery Meteorological Crewmember,142000,O,200104,201010,0
+142,3,"Weather, General",93E,Meteorological Observer,142000,O,196505,198604,1
+142,3,"Weather, General",93F,Field Artillery Meteorological Crewmember,142000,O,196505,200409,0
+143,3,EOD/UDT,00B,Diver,143300,O,196505,200409,0
+143,3,EOD/UDT,55D,Explosive Ordnance Disposal Specialist,143100,O,196505,200409,0
+143,3,EOD/UDT,89D,Explosive Ordnance Disposal Specialist,143100,A,200404,999912,0
+143,3,EOD/UDT,21D,Diver,143300,O,200309,201010,0
+143,3,EOD/UDT,12D,Diver,143300,A,201004,999912,0
+145,3,"Musicians, General",02B,Cornet or Trumpet Player,145000,O,199904,200409,0
+145,3,"Musicians, General",02C,Euphonium Player,145000,O,199904,200409,0
+145,3,"Musicians, General",02D,French Horn Player,145000,O,199904,200409,0
+145,3,"Musicians, General",02E,Trombone Player,145000,O,199904,200409,0
+145,3,"Musicians, General",02F,Tuba Player,145000,O,199904,200409,0
+145,3,"Musicians, General",02G,Flute or Piccolo Player,145000,O,199904,200409,0
+145,3,"Musicians, General",02H,Oboe Player,145000,O,199904,200409,0
+145,3,"Musicians, General",02J,Clarinet Player,145000,O,199904,200409,0
+145,3,"Musicians, General",02K,Bassoon Player,145000,O,199904,200409,0
+145,3,"Musicians, General",02L,Saxophone Player,145000,O,199904,200409,0
+145,3,"Musicians, General",02M,Percussion Player,145000,O,199904,200409,0
+145,3,"Musicians, General",02N,Keyboard Player,145000,O,199904,200409,0
+145,3,"Musicians, General",02T,Guitar Player,145000,O,199904,200409,0
+145,3,"Musicians, General",02U,Electric Bass Player,145000,O,198510,200409,0
+145,3,"Musicians, General",02Z,Bands Senior Sergeant,145000,O,196706,200409,0
+145,3,"Musicians, General",02A,Army Bandperson,145000,O,200404,200501,0
+145,3,"Musicians, General",02P,Brass Group Leader,145000,O,196706,198510,1
+145,3,"Musicians, General",02Q,Woodwind Group Leader,145000,O,196706,198510,1
+145,3,"Musicians, General",02R,Percussion Group Leader,145000,O,196706,198510,1
+145,3,"Musicians, General",02S,Special Bands Member,145000,O,199904,200409,0
+145,3,"Musicians, General",42R,Musician,145000,A,200409,999912,0
+145,3,"Musicians, General",42S,Special Band Musician,145000,A,200409,999912,0
+149,3,Firefighting and Damage Control,01B,Electrical-Electronic Engineering Assistant,149600,O,196505,197710,1
+149,3,Firefighting and Damage Control,01C,Mechanical Engineering Assistant,149600,O,196505,197710,1
+149,3,Firefighting and Damage Control,01D,Civil Engineering Assistant,149600,O,196505,197710,1
+149,3,Firefighting and Damage Control,21M,Firefighter,149500,O,200309,201010,0
+149,3,Firefighting and Damage Control,51M,Fire Fighter,149500,O,196505,200409,0
+149,3,Firefighting and Damage Control,54B,Chemical Operations Specialist,149400,O,198610,200409,0
+149,3,Firefighting and Damage Control,51G,Materials Quality Specialist,149100,O,196505,199404,1
+149,3,Firefighting and Damage Control,92C,Petroleum Laboratory Specialist,149100,O,196505,198604,1
+149,3,Firefighting and Damage Control,92L,Petroleum Laboratory Specialist,149100,A,200309,999912,0
+149,3,Firefighting and Damage Control,57F,Mortuary Affairs Specialist,149200,O,196505,199510,1
+149,3,Firefighting and Damage Control,92M,Mortuary Affairs Specialist,149200,A,199904,999912,0
+149,3,Firefighting and Damage Control,54E,NBC Specialist,149400,O,196505,198610,1
+149,3,Firefighting and Damage Control,54Z,Chemical Senior Sergeant,149400,O,198010,198610,1
+149,3,Firefighting and Damage Control,74D,"Chemical, Biological, Radiological, and Nuclear (CBRN) Specialist",149400,A,200309,999912,0
+149,3,Firefighting and Damage Control,12M,Firefighter,149500,A,201004,999912,0
+149,3,Firefighting and Damage Control,01E,Mathematics-Statistics Assistant,149600,O,196505,197710,1
+149,3,Firefighting and Damage Control,01F,Physical Sciences Assistant,149600,O,196505,197710,1
+149,3,Firefighting and Damage Control,01G,Chemical Engineering Assistant,149600,O,196505,197710,1
+149,3,Firefighting and Damage Control,77L,Petroleum Laboratory Specialist,149100,O,198610,200409,0
+149,3,Firefighting and Damage Control,92D,Chemical Laboratory Specialist,149100,O,196505,198510,1
+15X,2,Functional Support and Administration,See below,See below,See below,See below,See below,See below,
+150,3,Recruiting and Counseling,00E,Recruiter,150100,O,197710,199510,1
+150,3,Recruiting and Counseling,00R,Recruiter/Retention NCO,150100,O,198212,199510,1
+150,3,Recruiting and Counseling,01K,Personnel Psychology Specialist,150000,O,196505,197508,1
+150,3,Recruiting and Counseling,00U,Equal Opportunity Specialist,150000,O,197710,199903,1
+150,3,Recruiting and Counseling,42F,Human Resources Information Systems Management Specialist,150000,O,200309,201110,0
+150,3,Recruiting and Counseling,75C,Personnel Management Specialist,150000,O,197303,199604,1
+150,3,Recruiting and Counseling,75D,Personnel Records Specialist,150000,O,197303,199604,1
+150,3,Recruiting and Counseling,75E,Personnel Actions Specialist,150000,O,197303,199604,1
+150,3,Recruiting and Counseling,75Z,Personnel Sergeant,150000,O,197303,199604,1
+150,3,Recruiting and Counseling,79R,Recruiter,150100,A,199510,999912,0
+150,3,Recruiting and Counseling,79S,Career Counselor,150100,A,199510,999912,0
+150,3,Recruiting and Counseling,79T,Recruiting and Retention NCO (Army National Guard of the United States),150100,A,199904,999912,0
+150,3,Recruiting and Counseling,79V,Army Reserve Career Counselor (Army Reserve),150100,A,200004,999912,0
+150,3,Recruiting and Counseling,75B,Personnel Administration Specialist,150000,O,197303,200410,0
+150,3,Recruiting and Counseling,75F,Personnel Information Systems Management Specialist,150000,O,198109,200410,0
+150,3,Recruiting and Counseling,75H,Personnel Services Specialist,150000,O,199604,200410,0
+150,3,Recruiting and Counseling,79D,Reenlistment NCO,150100,O,197710,199510,1
+151,3,Legal,42L,Administrative Specialist,151000,O,200309,200710,0
+151,3,Legal,71B,Clerk-Typist,151000,O,196505,197709,1
+151,3,Legal,71T,Equipment Maintenance Clerk,151000,O,196704,197409,1
+151,3,Legal,71C,Executive Administrative Assistant,151100,O,196505,199604,1
+151,3,Legal,27D,Paralegal Specialist,151200,A,200010,999912,0
+151,3,Legal,71D,Legal Specialist,151200,O,196505,200104,0
+151,3,Legal,71E,Court Reporter,151200,O,196505,199410,1
+151,3,Legal,71L,Administrative Specialist,151000,O,196505,200410,0
+152,3,"Combined Personnel and Administration, General",42A,Human Resources Specialist,152000,A,200309,999912,0
+152,3,"Combined Personnel and Administration, General",00Z,Nominative Command Sergeant Major/Sergeant Major,152100,A,196801,999912,0
+152,3,"Combined Personnel and Administration, General",00J,Command Sergeant Major (CSM) Engineer/Signal/Military Police/Military Intelligence Immaterial,152100,A,201104,999912,0
+152,3,"Combined Personnel and Administration, General",00K,Command Sergeant Major (CSM) Maneuver Support(MS)/Logistics,152100,A,201104,999912,0
+152,3,"Combined Personnel and Administration, General",00L,Command Sergeant Major (CSM) Logistics,152100,A,201104,999912,0
+152,3,"Combined Personnel and Administration, General",00P,Command Sergeant Major (CSM) Force Sustainment,152100,A,201104,999912,0
+152,3,"Combined Personnel and Administration, General",00R,Command Sergeant Major (CSM) Infantry/Armor Immaterial,152100,A,201104,999912,0
+152,3,"Combined Personnel and Administration, General",00T,Command Sergeant Major (CSM) Infantry/Armor/Field Artillery/Combat Engineer Immaterial,152100,A,201104,999912,0
+152,3,"Combined Personnel and Administration, General",00X,Command Sergeant Major (CSM) MOS Immaterial,152100,A,201104,999912,0
+152,3,"Combined Personnel and Administration, General",00E,Sergeant Major (SGM) MOS Immaterial,152100,A,201710,999912,0
+153,3,Operators/Analysts/Programmers   ,25Y,Information Systems Chief,153100,O,200409,200710,0
+153,3,Operators/Analysts/Programmers   ,25B,Information Technology Specialist,153100,A,200409,999912,0
+153,3,Operators/Analysts/Programmers   ,71U,Card & Tape Writer,153100,O,196905,197503,1
+153,3,Operators/Analysts/Programmers   ,74D,Information System Operator,153100,O,199004,199504,1
+153,3,Operators/Analysts/Programmers   ,74B,Information Systems Operator-Analyst,153100,O,199507,200409,0
+153,3,Operators/Analysts/Programmers   ,74D,Computer/Machine Operator,153100,O,196505,199003,1
+153,3,Operators/Analysts/Programmers   ,74E,Computer Systems Operator,153100,O,196505,197503,1
+153,3,Operators/Analysts/Programmers   ,74F,Software Analyst,153200,O,196505,199405,1
+153,3,Operators/Analysts/Programmers   ,74Z,Information Systems Chief,153100,O,199507,200409,0
+154,3,Disbursing,44C,Financial Management Technician,154200,O,200404,200910,0
+154,3,Disbursing,73C,Finance Specialist,154200,O,196505,200409,0
+154,3,Disbursing,73D,Accounting Specialist,154100,O,198501,200409,0
+154,3,Disbursing,73Z,Finance Senior Sergeant,154200,O,196505,200409,0
+154,3,Disbursing,36B,Financial Management Technician,154200,A,200904,999912,0
+155,3,Supply Administration,55R,Ammunition Stock Control & Accounting Specialist,155100,O,198204,199304,1
+155,3,Supply Administration,76A,Supplyman,155100,O,196704,197405,1
+155,3,Supply Administration,76D,Materiel Supply Specialist,155100,O,197508,198004,1
+155,3,Supply Administration,76N,Procurement Sergeant,155100,O,196701,199304,1
+155,3,Supply Administration,76Q,Special Purpose Materiel Supply Specialist,155100,O,196704,197508,1
+155,3,Supply Administration,76R,Weapons Material Supply Specialist,155100,O,197405,197508,1
+155,3,Supply Administration,76S,Vehicle Materiel Supply Specialist,155100,O,197303,197508,1
+155,3,Supply Administration,76T,Aircraft Materiel Supply Specialist,155100,O,197405,197508,1
+155,3,Supply Administration,76U,Communications Electronics (COMMEL) Materiel Supply Specialist,155100,O,197303,199304,1
+155,3,Supply Administration,76Z,Senior Supply/Service Sergeant,155100,O,196704,199304,1
+155,3,Supply Administration,92A,Automated Logistical Specialist,155100,A,199304,999912,0
+155,3,Supply Administration,92Y,Unit Supply Specialist,155100,A,199304,999912,0
+155,3,Supply Administration,51C,Contracting Noncommissioned Officer (NCO),155100,A,200701,999912,0
+155,3,Supply Administration,92Z,Senior Noncommissioned Logistician,155200,A,199304,999912,0
+155,3,Supply Administration,65K,Railway Movement Coordinator (RC),155300,O,196704,198610,1
+155,3,Supply Administration,71N,Traffic Management Coordinator,155300,O,196505,198609,1
+155,3,Supply Administration,88N,Transportation Management Coordinator,155300,A,199507,999912,0
+155,3,Supply Administration,88W,Railway Movement Coordinator (RC),155300,O,198610,199404,1
+155,3,Supply Administration,71F,Postal Clerk,155400,O,196505,197609,1
+155,3,Supply Administration,15P,Aviation Operations Specialist,155600,A,200304,999912,0
+155,3,Supply Administration,71P,Flight Operations Coordinator,155600,O,196505,198406,1
+155,3,Supply Administration,76C,Equipment Records & Parts Specialist,155100,O,198004,199304,1
+155,3,Supply Administration,76P,Materiel Control & Accounting Specialist,155100,O,196704,199304,1
+155,3,Supply Administration,76V,Materiel Storage & Handling Specialist,155100,O,196704,199304,1
+155,3,Supply Administration,76X,Subsistence Supply Specialist,155100,O,196704,199304,1
+155,3,Supply Administration,76Y,Unit Supply Specialist,155200,O,196704,199304,1
+155,3,Supply Administration,93P,Aviation Operations Specialist,155600,O,198406,200409,0
+156,3,Chaplain's Assistants,03Z,Special Services Senior Sergeant,156200,O,197303,197705,1
+156,3,Chaplain's Assistants,56M,Religious Affairs Specialist,156100,A,200010,999912,0
+156,3,Chaplain's Assistants,71M,Chaplain Assistant,156100,O,196505,200104,0
+156,3,Chaplain's Assistants,03B,Performing Arts Specialist,156200,O,196505,197708,1
+156,3,Chaplain's Assistants,03C,Physical Activities Specialist,156200,O,196505,198803,1
+156,3,Chaplain's Assistants,03D,Arts & Crafts Specialist,156200,O,196505,197705,1
+157,3,"Information and Education, General",38A,Civil Affairs Specialist (RC),157000,O,199109,200510,0
+157,3,"Information and Education, General",46R,Public Affairs Broadcast Specialist,157000,O,200409,201810,0
+157,3,"Information and Education, General",71R,Broadcast Journalist,157000,O,196505,198809,1
+157,3,"Information and Education, General",46S,Public Affairs Mass Communication Specialist,157000,A,201810,999912,0
+157,3,"Information and Education, General",26T,Radio/Television Systems Specialist,157000,O,196505,198903,1
+157,3,"Information and Education, General",38B,Civil Affairs Specialist,157000,A,200504,999912,0
+157,3,"Information and Education, General",46Q,Public Affairs Specialist,157000,O,200409,201810,0
+157,3,"Information and Education, General",46Z,Chief Public Affairs NCO,157000,A,200409,999912,0
+157,3,"Information and Education, General",71Q,Journalist,157000,O,196505,198809,1
+157,3,"Information and Education, General",84T,TV/Radio Broadcast Operations Chief,157000,O,197610,198903,1
+157,3,"Information and Education, General",84Z,Public Affairs Chief,157000,O,197610,198809,1
+16X,2,Electrical/Mechanical Equipment Repairers,See below,See below,See below,See below,See below,See below,
+160,3,"Aircraft, General",66H,Observation Airplane Technical Inspector,160000,O,198308,198909,1
+160,3,"Aircraft, General",67G,Utility Airplane Repairer (RC),160000,O,199701,200610,0
+160,3,"Aircraft, General",67N,UH-1 Helicopter Repairer,160000,O,196505,200409,0
+160,3,"Aircraft, General",67R,AH-64 Attack Helicopter Repairer,160000,O,198910,200409,0
+160,3,"Aircraft, General",67S,OH-58D Scout Helicopter Repairer,160000,O,199205,200409,0
+160,3,"Aircraft, General",67T,UH-60 Helicopter Repairer,160000,O,199205,200409,0
+160,3,"Aircraft, General",67U,CH-47 Helicopter Repairer,160000,O,196505,200409,0
+160,3,"Aircraft, General",67V,Observation/Scout Helicopter Repairer,160000,O,196704,200409,0
+160,3,"Aircraft, General",67Y,AH-1 Attack Helicopter Repairer (RC),160000,O,196801,200510,0
+160,3,"Aircraft, General",67Z,Aircraft Maintenance Senior Sergeant,160000,O,196505,200409,0
+160,3,"Aircraft, General",15M,UH-1 Helicopter Repairer (RC),160000,O,200304,201310,0
+160,3,"Aircraft, General",15R,AH-64 Attack Helicopter Repairer,160000,A,200304,999912,0
+160,3,"Aircraft, General",15S,OH-58D Helicopter Repairer,160000,A,200304,999912,0
+160,3,"Aircraft, General",15T,UH-60 Helicopter Repairer,160000,A,200304,999912,0
+160,3,"Aircraft, General",15U,CH-47 Helicopter Repairer,160000,A,200304,999912,0
+160,3,"Aircraft, General",15V,Observation/Scout Helicopter Repairer (RC),160000,O,200304,201610,0
+160,3,"Aircraft, General",15Z,Aviation Senior Sergeant,160000,A,200304,999912,0
+160,3,"Aircraft, General",66G,Utility Airplane Technical Inspector,160000,O,198308,198909,1
+160,3,"Aircraft, General",66J,Aircraft Armament Technical Inspector,160000,O,198308,198909,1
+160,3,"Aircraft, General",66N,Utility Helicopter Technical Inspector,160000,O,198308,198909,1
+160,3,"Aircraft, General",66R,Attack Helicopter (AH-64) Technical Inspector,160000,O,198308,198909,1
+160,3,"Aircraft, General",66S,Scout Helicopter Technical Inspector (NISH),160000,O,198308,198909,1
+160,3,"Aircraft, General",66T,Tactical Transport Helicopter Technical Inspector,160000,O,198308,198909,1
+160,3,"Aircraft, General",66U,Medium Helicopter Technical Inspector,160000,O,198308,198909,1
+160,3,"Aircraft, General",66V,Observation/Scout Helicopter Technical Inspector,160000,O,198308,198909,1
+160,3,"Aircraft, General",66X,Heavylift Helicopter Technical Inspector,160000,O,198308,198909,1
+160,3,"Aircraft, General",66Y,Attack Helicopter (AH-1) Technical Inspector,160000,O,198308,198909,1
+160,3,"Aircraft, General",67B,O-1/U-6 Airplane Repairman,160000,O,196505,197609,1
+160,3,"Aircraft, General",67C,U-1A Airplane Repairman,160000,O,196505,197609,1
+160,3,"Aircraft, General",67F,Airplane Technical Inspector,160000,O,196505,197609,1
+160,3,"Aircraft, General",67H,Observation Airplane Repairer,160000,O,199205,199610,1
+160,3,"Aircraft, General",67M,OH-13/OH-23 Helicopter Repairman,160000,O,196505,197503,1
+160,3,"Aircraft, General",67W,Aircraft Quality Control Supervisor,160000,O,196505,198309,1
+160,3,"Aircraft, General",67X,Heavy Lift Helicopter Repairer,160000,O,196801,199404,1
+160,3,"Aircraft, General",67A,General Aircraft Repairer,160000,O,199001,199407,1
+160,3,"Aircraft, General",15E,Unmanned Aircraft Systems Repairer,160000,A,200910,999912,0
+160,3,"Aircraft, General",15B,Aircraft Powerplant Repairer,160100,A,200304,999912,0
+160,3,"Aircraft, General",68B,Aircraft Powerplant Repairer,160100,O,196505,200409,0
+160,3,"Aircraft, General",15D,Aircraft Powertrain Repairer,160200,A,200304,999912,0
+160,3,"Aircraft, General",15F,Aircraft Electrician,160200,A,200304,999912,0
+160,3,"Aircraft, General",15H,Aircraft Pneudraulics Repairer,160200,A,200304,999912,0
+160,3,"Aircraft, General",15J,OH-58D/Armament/Electrical/Avionics Systems Repairer,160200,A,200304,999912,0
+160,3,"Aircraft, General",15K,Aircraft Components Repair Supervisor,160200,A,200304,999912,0
+160,3,"Aircraft, General",68D,Aircraft Powertrain Repairer,160200,O,196505,200409,0
+160,3,"Aircraft, General",68E,Aircraft Rotor & Propeller Repairman,160200,O,196505,197609,1
+160,3,"Aircraft, General",68F,Aircraft Electrician,160200,O,196505,200409,0
+160,3,"Aircraft, General",68H,Aircraft Pneudraulics Repairer,160200,O,196505,200409,0
+160,3,"Aircraft, General",68K,Aircraft Components Repair Supervisor,160200,O,197609,200409,0
+160,3,"Aircraft, General",68M,Aircraft Weapons Systems Repairer,160200,O,197609,198809,1
+160,3,"Aircraft, General",68P,Avionics Maintenance Supervisor,160200,O,198903,199904,1
+160,3,"Aircraft, General",68S,OH-58D Armament/Electrical/Avionics Systems Repairer,160200,O,200004,200409,0
+160,3,"Aircraft, General",15G,Aircraft Structural Repairer,160300,A,200304,999912,0
+160,3,"Aircraft, General",68G,Aircraft Structural Repairer,160300,O,196505,200409,0
+161,3,"Automotive, General",52X,Special Purpose Equipment Repairer,161000,O,198510,200810,0
+161,3,"Automotive, General",62B,Construction Equipment Repairer,161200,O,196505,200910,0
+161,3,"Automotive, General",63A,M1 ABRAMS Tank System Maintainer,161100,O,199910,200910,0
+161,3,"Automotive, General",63B,Wheeled Vehicle Mechanic,161000,O,200204,200910,0
+161,3,"Automotive, General",63D,Artillery Mechanic,161100,O,198009,200910,0
+161,3,"Automotive, General",63E,M1 ABRAMS Tank System Mechanic,161100,O,199205,200409,0
+161,3,"Automotive, General",63G,Fuel & Electrical System Repairer,161000,O,200004,200409,0
+161,3,"Automotive, General",63H,Track Vehicle Repairer,161100,O,200204,200910,0
+161,3,"Automotive, General",63M,BRADLEY Fighting Vehicle System Maintainer,161100,O,199910,200910,0
+161,3,"Automotive, General",63N,M60A1/A3 Tank System Mechanic,161100,O,198004,200309,0
+161,3,"Automotive, General",63S,Heavy Wheel Vehicle Mechanic,161000,O,198004,200409,0
+161,3,"Automotive, General",63T,BRADLEY Fighting Vehicle System Mechanic,161100,O,198004,200409,0
+161,3,"Automotive, General",63W,Wheel Vehicle Repairer,161000,O,198004,200409,0
+161,3,"Automotive, General",63X,Maintenance Supervisor,161000,O,200404,200910,0
+161,3,"Automotive, General",63Y,Track Vehicle Mechanic,161100,O,198004,200409,0
+161,3,"Automotive, General",63Z,Mechanical Maintenance Supervisor,161000,O,196507,200910,0
+161,3,"Automotive, General",63A,Mechanical Maintenance Helper,161000,O,196501,197410,1
+161,3,"Automotive, General",63F,Recovery Specialist,161000,O,196505,198004,1
+161,3,"Automotive, General",91X,Maintenance Supervisor,161000,A,200904,999912,0
+161,3,"Automotive, General",91Z,Senior Maintenance Supervisor,161000,A,200904,999912,0
+161,3,"Automotive, General",91B,Wheeled Vehicle Repairer,161000,A,200904,999912,0
+161,3,"Automotive, General",91S,STRYKER Systems Maintainer,161000,A,201005,999912,0
+161,3,"Automotive, General",63C,Track Vehicle Mechanic,161100,O,196505,198004,1
+161,3,"Automotive, General",63R,M60A2 Tank System Mechanic,161100,O,198004,198103,1
+161,3,"Automotive, General",91A,M1 Abrams Tank System Maintainer,161100,A,200904,999912,0
+161,3,"Automotive, General",91H,Tracked Vehicle Repairer,161100,A,200904,999912,0
+161,3,"Automotive, General",91M,BRADLEY Fighting Vehicle System Maintainer,161100,A,200904,999912,0
+161,3,"Automotive, General",91P,Self Propelled Artillery Systems Maintainer,161100,A,200904,999912,0
+161,3,"Automotive, General",91L,Construction Equipment Repairer,161200,A,200904,999912,0
+162,3,Lineman/Central Office,31L,Cable Systems Installer-Maintainer,162100,O,199507,200409,0
+162,3,Lineman/Central Office,35N,Wire Systems Equipment Repairer,162200,O,199507,200409,0
+162,3,Lineman/Central Office,25L,Cable Systems Installer-Maintainer,162100,A,200409,999912,0
+162,3,Lineman/Central Office,36C,Wire Systems Installer,162100,O,196505,198610,1
+162,3,Lineman/Central Office,36D,Antenna Installer Specialist,162100,O,196505,198308,1
+162,3,Lineman/Central Office,36E,Cable Splicer,162100,O,196505,198308,1
+162,3,Lineman/Central Office,36K,Tactical Wire Operations Specialist,162100,O,196606,198401,1
+162,3,Lineman/Central Office,36M,Switching Systems Operator,162100,O,198212,199210,1
+162,3,Lineman/Central Office,29N,Switching Central Repairer,162200,O,198509,199504,1
+162,3,Lineman/Central Office,36G,Manual Central Office Repairman,162200,O,196505,197710,1
+162,3,Lineman/Central Office,36H,Dial/Manual Central Office Repairer,162200,O,196505,198506,1
+162,3,Lineman/Central Office,36L,Transportable Automatic Switching Systems Operator/Maintainer,162200,O,197610,199504,1
+164,3,Aviation Ordinance,15X,AH-64A Armament/Electrical Systems Repairer,164600,O,200304,200503,0
+164,3,Aviation Ordinance,15X,AH-64A Armament/Electrical/Avionics Systems Repairer,164600,O,200504,201510,0
+164,3,Aviation Ordinance,45B,Small Arms/Artillery Repairer,164100,O,196505,200910,0
+164,3,Aviation Ordinance,45D,Self-Propelled Field Artillery Turret Mechanic,164200,O,199205,200409,0
+164,3,Aviation Ordinance,45E,M1 ABRAMS Tank Turret Mechanic,164300,O,199205,200409,0
+164,3,Aviation Ordinance,45K,Armament Repairer,164300,O,196905,200910,0
+164,3,Aviation Ordinance,45T,BRADLEY Fighting Vehicle System Turret Mechanic,164300,O,199904,200409,0
+164,3,Aviation Ordinance,55B,Ammunition Specialist,164500,O,196505,200409,0
+164,3,Aviation Ordinance,55G,Nuclear Weapons Specialist,164400,O,196505,199410,1
+164,3,Aviation Ordinance,68Y,AH-64D Armament/Electrical/Avionics Systems Repairer,164600,O,199904,200409,0
+164,3,Aviation Ordinance,45A,Armament Maintenance Apprentice,164000,O,196505,197410,1
+164,3,Aviation Ordinance,45Z,Armament/Fire Control Maintenance Supervisor,164000,O,196505,199210,1
+164,3,Aviation Ordinance,91K,Armament Repairer,164300,O,200904,201310,0
+164,3,Aviation Ordinance,91F,Small Arms/Towed Artillery Repairer,164100,A,200904,999912,0
+164,3,Aviation Ordinance,45L,Artillery Repairer,164200,O,196905,199210,1
+164,3,Aviation Ordinance,45N,M60A1/A3 Tank Turret Mechanic (RC),164300,O,199904,200409,0
+164,3,Aviation Ordinance,45P,SHERIDAN Turret Mechanic,164300,O,197303,198004,1
+164,3,Aviation Ordinance,45R,M60A2 Tank Turret Mechanic,164300,O,197303,198103,1
+164,3,Aviation Ordinance,55A,Ammunition Helper,164500,O,196505,197405,1
+164,3,Aviation Ordinance,55C,Ammunition Specialist,164500,O,196505,197508,1
+164,3,Aviation Ordinance,55X,Ammunition Inspector,164500,O,197101,199304,1
+164,3,Aviation Ordinance,55Z,Ammunition Supervisor,164500,O,196505,199604,1
+164,3,Aviation Ordinance,89B,Ammunition Specialist,164500,A,200404,999912,0
+164,3,Aviation Ordinance,89A,Ammunition Stock Control and Accounting Specialist,164500,A,200704,999912,0
+164,3,Aviation Ordinance,15Y,AH-64D Armament/Electrical/Avionics Systems Repairer,164600,A,200304,999912,0
+164,3,Aviation Ordinance,45J,Aircraft Armament Repairman,164600,O,196505,197610,1
+164,3,Aviation Ordinance,45M,Aircraft Armament Subsystem Mechanic,164600,O,196908,197610,1
+164,3,Aviation Ordinance,68X,AH-64A Armament/Electrical Systems Repairer,164600,O,199904,200409,0
+165,3,Auxiliaries,61C,Watercraft Engineer,165200,O,196505,198610,1
+165,3,Auxiliaries,61E,Amphibian Engineer,165200,O,196602,197508,1
+165,3,Auxiliaries,88L,Watercraft Engineer,165200,A,198610,999912,0
+166,3,Electric Power,52D,Power-Generation Equipment Repairer,166200,O,196505,200910,0
+166,3,Electric Power,52H,Nuclear Power Plant Mechanic/Operator,166100,O,196505,197710,1
+166,3,Electric Power,52J,Nuclear Power Plant Electrician/Operator,166100,O,196505,197710,1
+166,3,Electric Power,52K,Nuclear Power Plant Instrumentman/Operator,166100,O,196505,197710,1
+166,3,Electric Power,52L,Nuclear Power Plant Process Control Specialist/Operator,166100,O,196505,197710,1
+166,3,Electric Power,52M,Nuclear Power Plant Chief,166100,O,196505,197710,1
+166,3,Electric Power,21P,Prime Power Production Specialist,166200,O,200309,201010,0
+166,3,Electric Power,52B,Power Generation Equipment Operator/Mechanic,166200,O,196505,197710,1
+166,3,Electric Power,52E,Prime Power Production Specialist,166200,O,196505,200309,0
+166,3,Electric Power,52F,Turbine Engine Driven Generator Repairer,166200,O,199205,199804,1
+166,3,Electric Power,65C,Diesel-Electric Locomotive Repairman,166200,O,196505,197508,1
+166,3,Electric Power,65F,Locomotive Electrician (RC),166200,O,196602,198610,1
+166,3,Electric Power,88S,Locomotive Electrician (RC),166200,O,198610,199404,1
+166,3,Electric Power,91D,Tactical Power Generation Specialist,166200,A,200904,999912,0
+166,3,Electric Power,12P,Prime Power Production Specialist,166200,A,201004,999912,0
+169,3,"Other Mechanical and Electrical Equipment, General",63J,Quartermaster and Chemical Equipment Repairer,169000,O,196603,200910,0
+169,3,"Other Mechanical and Electrical Equipment, General",41K,Reproduction Equipment Repair Specialist,169000,O,196505,198010,1
+169,3,"Other Mechanical and Electrical Equipment, General",54D,Chemical Equipment Repairer,169000,O,196505,198004,1
+169,3,"Other Mechanical and Electrical Equipment, General",63K,QM Heavy Equipment Repairman,169000,O,196601,197503,1
+169,3,"Other Mechanical and Electrical Equipment, General",65B,Locomotive Repairer (RC),169000,O,196505,198610,1
+169,3,"Other Mechanical and Electrical Equipment, General",65D,Railway Car Repairer (RC),169000,O,196505,198610,1
+169,3,"Other Mechanical and Electrical Equipment, General",65E,Airbrake Repairer (RC),169000,O,196704,198610,1
+169,3,"Other Mechanical and Electrical Equipment, General",88P,Railway Equipment Repairer (RC),169000,O,199904,201610,0
+169,3,"Other Mechanical and Electrical Equipment, General",88Q,Railway Car Repairer (RC),169000,O,198610,199404,1
+169,3,"Other Mechanical and Electrical Equipment, General",88R,Airbrake Repairer (RC),169000,O,198610,199404,1
+169,3,"Other Mechanical and Electrical Equipment, General",91J,Quartermaster and Chemical Equipment Repairer,169000,A,200904,999912,0
+17X,2,Craftsworkers,See below,See below,See below,See below,See below,See below,
+170,3,Metal Body Repair,44B,Metal Worker,170400,O,196505,200910,0
+170,3,Metal Body Repair,44E,Machinist,170200,O,196505,200910,0
+170,3,Metal Body Repair,91W,Metal Worker,170400,O,200904,201010,0
+170,3,Metal Body Repair,44A,Metalworking Apprentice,170000,O,196505,197410,1
+170,3,Metal Body Repair,44C,Welder,170100,O,196505,197506,1
+170,3,Metal Body Repair,91E,Allied Trades Specialist,170200,A,200904,999912,0
+170,3,Metal Body Repair,61F,Marine Hull Repairer,170400,O,197210,198212,1
+171,3,Construction Equipment Operation,21E,Construction Equipment Operator,171300,O,200309,201010,0
+171,3,Construction Equipment Operation,21F,Crane Operator,171300,O,200309,200610,0
+171,3,Construction Equipment Operation,21J,General Construction Equipment Operator,171300,O,200309,200810,0
+171,3,Construction Equipment Operation,51B,Carpentry & Masonry Specialist,171200,O,196505,200409,0
+171,3,Construction Equipment Operation,51H,Construction Engineering Supervisor,171000,O,196505,200409,0
+171,3,Construction Equipment Operation,51Z,General Engineering Supervisor,171000,O,197710,200409,0
+171,3,Construction Equipment Operation,62E,Heavy Construction Equipment Operator,171300,O,196505,200409,0
+171,3,Construction Equipment Operation,62F,Crane Operator,171300,O,196505,200409,0
+171,3,Construction Equipment Operation,62G,Quarrying Specialist (RC),171300,O,196505,200409,0
+171,3,Construction Equipment Operation,62H,Concrete & Asphalt Equipment Operator,171300,O,199904,200409,0
+171,3,Construction Equipment Operation,62J,General Construction Equipment Operator,171300,O,196803,200409,0
+171,3,Construction Equipment Operation,62N,Construction Equipment Supervisor,171300,O,196803,200409,0
+171,3,Construction Equipment Operation,21H,Construction Engineering Supervisor,171000,O,200309,201010,0
+171,3,Construction Equipment Operation,21X,General Engineering Supervisor,171000,O,200309,201010,0
+171,3,Construction Equipment Operation,51A,Construction & Utilities Worker,171000,O,196505,197710,1
+171,3,Construction Equipment Operation,51C,Structures Specialist,171000,O,196505,198610,1
+171,3,Construction Equipment Operation,51D,Mason,171000,O,196505,197710,1
+171,3,Construction Equipment Operation,51F,Pipeline Specialist,171000,O,196505,197710,1
+171,3,Construction Equipment Operation,57D,Sawyer,171000,O,196505,197709,1
+171,3,Construction Equipment Operation,12H,Construction Engineering Supervisor,171000,A,201004,999912,0
+171,3,Construction Equipment Operation,12X,General Engineering Supervisor,171000,A,201004,999912,0
+171,3,Construction Equipment Operation,21W,Carpentry and Masonry Specialist,171200,O,200309,201010,0
+171,3,Construction Equipment Operation,12W,Carpentry and Masonry Specialist,171200,A,201004,999912,0
+171,3,Construction Equipment Operation,21G,Quarrying Specialist (RC),171300,O,200309,201010,0
+171,3,Construction Equipment Operation,21N,Construction Equipment Supervisor,171300,O,200309,201010,0
+171,3,Construction Equipment Operation,21V,Concrete and Asphalt Equipment Operator,171300,O,200309,201010,0
+171,3,Construction Equipment Operation,62D,Asphalt Equipment Operator,171300,O,196505,197710,1
+171,3,Construction Equipment Operation,62K,Grader Operator,171300,O,196803,197710,1
+171,3,Construction Equipment Operation,62L,Wheeled Tractor Operator,171300,O,196803,197710,1
+171,3,Construction Equipment Operation,62M,Rough Terrain Forklift & Loader Operator,171300,O,196803,197710,1
+171,3,Construction Equipment Operation,12G,Quarrying Specialist (RC),171300,A,201004,999912,0
+171,3,Construction Equipment Operation,12N,Horizontal Construction Engineer,171300,A,201004,999912,0
+171,3,Construction Equipment Operation,12V,Concrete and Asphalt Equipment Operator,171300,A,201004,999912,0
+172,3,"Utilities, General",21Q,Powerline Distribution Specialist (RC),172100,O,200309,201010,0
+172,3,"Utilities, General",51K,Plumber,172000,O,198010,200409,0
+172,3,"Utilities, General",51R,Interior Electrician,172100,O,197105,200409,0
+172,3,"Utilities, General",52C,Utilities Equipment Repairer,172000,O,196505,200910,0
+172,3,"Utilities, General",52G,Transmission & Distribution Specialist (RC),172100,O,199205,200409,0
+172,3,"Utilities, General",77W,Water Treatment Specialist,172000,O,198610,200409,0
+172,3,"Utilities, General",21K,Plumber,172000,O,200309,201010,0
+172,3,"Utilities, General",51J,Heating & Ventilating Specialist,172000,O,196505,197710,1
+172,3,"Utilities, General",51L,Heating & Cooling Specialist,172000,O,196505,197710,1
+172,3,"Utilities, General",51N,Water Treatment & Plumbing Systems Specialist,172000,O,196505,198604,1
+172,3,"Utilities, General",51P,Utilities Engineering Supervisor,172000,O,196505,198010,1
+172,3,"Utilities, General",92W,Water Treatment Specialist,172000,A,200309,999912,0
+172,3,"Utilities, General",91C,Utilities Equipment Repairer,172000,A,200904,999912,0
+172,3,"Utilities, General",12K,Plumber,172000,A,201004,999912,0
+172,3,"Utilities, General",21R,Interior Electrician,172100,O,200309,201010,0
+172,3,"Utilities, General",12Q,Powerline Distribution Specialist (RC),172100,A,201004,999912,0
+172,3,"Utilities, General",12R,Interior Electrician,172100,A,201004,999912,0
+174,3,"Lithography, General",21L,Lithographer,174000,O,200309,200810,0
+174,3,"Lithography, General",81L,Lithographer,174000,O,199510,200409,0
+174,3,"Lithography, General",83F,Printing and Bindery Specialist,174000,O,196505,199510,1
+174,3,"Lithography, General",83D,Process Photographer,174000,O,196505,197610,1
+174,3,"Lithography, General",83E,Photo & Layout Specialist,174000,O,196505,199510,1
+174,3,"Lithography, General",83Z,Photolithography Chief,174000,O,196505,197610,1
+176,3,"Fabric, Leather, and Rubber, General",43M,Fabric Repair Specialist,176000,O,196601,200104,0
+176,3,"Fabric, Leather, and Rubber, General",43J,Textile Repairman,176000,O,196601,197508,1
+176,3,"Fabric, Leather, and Rubber, General",43K,Canvas Repairman,176000,O,196601,197508,1
+18X,2,Service and Supply Handlers,See below,See below,See below,See below,See below,See below,
+180,3,"Food Service, General",00J,Club/Community Activities Manager,180000,O,197101,198909,1
+180,3,"Food Service, General",92G,Culinary Specialist,180000,A,199904,999912,0
+180,3,"Food Service, General",94A,Food Service Helper,180000,O,196505,197405,1
+180,3,"Food Service, General",94B,Food Service Specialist,180000,O,196505,199510,1
+180,3,"Food Service, General",94D,Baker,180000,O,196505,197604,1
+180,3,"Food Service, General",94Z,Food Service Supervisor,180000,O,196602,197604,1
+180,3,"Food Service, General",00H,Enlisted Aide,180100,O,196908,197604,1
+181,3,Motor Vehicle Operators,88X,Railway Senior Sergeant (RC),181200,O,198610,200509,0
+181,3,Motor Vehicle Operators,64C,Motor Transport Operator,181100,O,196505,198609,1
+181,3,Motor Vehicle Operators,64Z,Transportation Senior Sergeant,181100,O,197508,198610,1
+181,3,Motor Vehicle Operators,88M,Motor Transport Operator,181100,A,198610,999912,0
+181,3,Motor Vehicle Operators,88Z,Transportation Senior Sergeant,181100,A,198610,999912,0
+181,3,Motor Vehicle Operators,65H,Locomotive Operator (RC),181200,O,196704,198610,1
+181,3,Motor Vehicle Operators,65J,Train Crewmember (RC),181200,O,196704,198610,1
+181,3,Motor Vehicle Operators,65Z,Railway Senior Sergeant (RC),181200,O,196704,198610,1
+181,3,Motor Vehicle Operators,88U,Railway Specialist (USAR only),181200,A,199904,999912,0
+181,3,Motor Vehicle Operators,88V,Train Crewmember (RC),181200,O,198610,199404,1
+182,3,Missile Fuel and Petroleum,77F,Petroleum Supply Specialist,182100,O,198604,200409,0
+182,3,Missile Fuel and Petroleum,76W,Petroleum Supply Specialist,182100,O,196704,198604,1
+182,3,Missile Fuel and Petroleum,92F,Petroleum Supply Specialist,182100,A,200309,999912,0
+182,3,Missile Fuel and Petroleum,57H,Cargo Specialist,182200,O,196704,198610,1
+182,3,Missile Fuel and Petroleum,88H,Cargo Specialist,182200,A,198610,999912,0
+183,3,"Law Enforcement, General",95B,Military Police,183000,O,196505,200409,0
+183,3,"Law Enforcement, General",95C,Internment/Resettlement Specialist,183100,O,199904,200409,0
+183,3,"Law Enforcement, General",95D,CID Special Agent,183200,O,196505,200409,0
+183,3,"Law Enforcement, General",31Z,Senior Military Police Sergeant,183000,A,201810,999912,0
+183,3,"Law Enforcement, General",00C,Dog Trainer,183000,O,196505,197710,1
+183,3,"Law Enforcement, General",31B,Military Police,183000,A,200309,999912,0
+183,3,"Law Enforcement, General",31K,Military Working Dog (MWD) Handler,183000,A,201110,999912,0
+183,3,"Law Enforcement, General",31E,Corrections and Detention Specialist,183100,A,200309,999912,0
+183,3,"Law Enforcement, General",31D,CID Special Agent,183200,A,200309,999912,0
+184,3,"Laundry and Personal Service, General",57E,Laundry & Bath Specialist,184000,O,196505,200104,0
+184,3,"Laundry and Personal Service, General",92S,Shower and Laundry Specialist,184000,A,200504,999912,0
+186,3,"Forward Area Equipment Support, General",15A,Aviation Life Support Systems Repairer,186000,O,200710,200908,0
+186,3,"Forward Area Equipment Support, General",43E,Parachute Rigger,186000,O,196505,199510,1
+186,3,"Forward Area Equipment Support, General",92R,Parachute Rigger,186000,A,199904,999912,0

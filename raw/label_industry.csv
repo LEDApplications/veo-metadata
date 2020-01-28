@@ -1,0 +1,23 @@
+industry,label,ind_level
+11,"Agriculture, Forestry, Fishing and Hunting",2
+21,"Mining, Quarrying, and Oil and Gas Extraction",2
+22,Utilities,2
+23,Construction,2
+31-33,Manufacturing,2
+42,Wholesale Trade,2
+44-45,Retail Trade,2
+48-49,Transportation and Warehousing,2
+51,Information,2
+52,Finance and Insurance,2
+53,Real Estate and Rental and Leasing,2
+54,"Professional, Scientific, and Technical Services",2
+55,Management of Companies and Enterprises,2
+56,Administrative and Support and Waste Management and Remediation Services,2
+61,Educational Services,2
+62,Health Care and Social Assistance,2
+71,"Arts, Entertainment, and Recreation",2
+72,Accommodation and Food Services,2
+81,Other Services (except Public Administration),2
+92,Public Administration,2
+99,Federal Government,2
+UN,Unclassified,2

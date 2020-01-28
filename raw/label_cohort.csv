@@ -1,0 +1,3 @@
+This is a 4-digit number representing the first year of the cohort. The number of years in the cohort is reported in the separate cohort_years variable.
+
+"If cohort is 2010 and cohort_years is 2, then the cell includes veterans separating from service in 2010 and 2011."

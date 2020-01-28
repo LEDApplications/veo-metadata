@@ -6,7 +6,6 @@
 .idea
 *.iml
 out
-raw
 __pycache__
 .pyc
 gen

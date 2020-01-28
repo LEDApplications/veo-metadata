@@ -1,0 +1,10 @@
+paygrade,label
+E1,Private
+E2,Private (PV2)
+E3,Private First Class (PFC)
+E4,Corporal (CPL) or Specialist (SPC)
+E5,Sergeant (SGT)
+E6,Staff Sergeant (SSG)
+E79,"Sergeant First Class (SFC), Master Sergeant (MSG) or First Sergeant (1SG), and Sergeant Major (SGM), Command Sergeant Major (CSM), or Sergeant Major of the Army (SMA)"
+E1-E5,Paygrades E1-E5
+E6-E9,Paygrades E6 and E79
