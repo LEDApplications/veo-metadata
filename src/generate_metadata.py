@@ -4,6 +4,7 @@ from pathlib import Path
 from format_simple_occ import format_simple_occ
 from format_detailed_occ import format_detailed_occ
 from format_default import format_default
+from format_paygrade import format_paygrade
 from format_cohort_years import format_cohort_years
 
 if __name__ == "__main__":
@@ -29,10 +30,12 @@ if __name__ == "__main__":
     format_default("label_ethnicity", "ethnicity", json_format)
     format_default("label_fipsnum", "geography", json_format)
     format_default("label_industry", "industry", json_format)
-    format_default("label_paygrade", "paygrade", json_format)
     format_default("label_race", "race", json_format)
     format_default("label_sex", "sex", json_format)
     format_default("label_yosgrp", "yosgrp", json_format)
+
+    # handling for paygrade
+    format_paygrade("label_paygrade", "paygrade", json_format)
 
     # add custom year labels per cohort size
     format_cohort_years(start_year, end_year, 2, json_format)
