@@ -7,6 +7,7 @@ def format_detailed_occ(pretty=None):
     print("Creating detailed occupation labels")
     csv_file = '../raw/label_dod_occ_code.csv'
     json_file = '../out/label_dod_occ_code_detailed.json'
+    json_file_rollup = '../out/label_dod_occ_code_rollup.json'
 
     mos_dict = {}
     occ_dict = {}
@@ -43,13 +44,19 @@ def format_detailed_occ(pretty=None):
         mos_dict[key] = mos_rollup_dict[key]
 
     csv_data = []
+    csv_data_rollup = []
     for key in occ_dict.keys():
         if key not in mos_dict:
             print("ERROR: no mos code found for {}".format(key))
             break
-        id = key
+        ident = key
         label = occ_dict[key]
         details = mos_dict[key]
-        csv_data.extend([{'id': id, 'label': label, 'details': details}])
+
+        if 'X' not in ident:
+            csv_data.extend([{'id': ident, 'label': label, 'details': details}])
+        else:
+            csv_data_rollup.extend([{'id': ident, 'label': label, 'details': details}])
 
     write_json(csv_data, json_file, "labels", pretty)
+    write_json(csv_data_rollup, json_file_rollup, "labels", pretty)
