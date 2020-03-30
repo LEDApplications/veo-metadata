@@ -1,0 +1,4 @@
+status_flag,label
+-1,Data not available to compute this estimate
+1,OK
+5,Value suppressed because it does not meet US Census Bureau publication standards
