@@ -5,7 +5,7 @@ from utils import read_csv, write_json
 
 def format_detailed_occ(pretty=None):
     print("Creating detailed occupation labels")
-    csv_file = '../raw/label_dod_occ_code.csv'
+    csv_file = '../raw/label_dod_occ_code_w_mosc.csv'
     json_file = '../out/label_dod_occ_code_detailed.json'
     json_file_rollup = '../out/label_dod_occ_code_rollup.json'
 
