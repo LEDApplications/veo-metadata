@@ -1,5 +1,7 @@
 import csv
 import json
+from zipfile import ZipFile
+from os.path import basename
 
 
 # Read CSV File
@@ -29,3 +31,12 @@ def write_json(data, json_file, json_obj_name, format='pretty'):
             f.write('{{"{}":{}}}'.format(json_obj_name, json.dumps(data, separators=(',', ':'))))
         else:
             f.write('{{"{}":{}}}'.format(json_obj_name, json.dumps(data)))
+
+
+# Create a zip file
+def create_zip(outzip, *argv):
+    zipobj = ZipFile(outzip, 'w')
+    for arg in argv:
+        zipobj.write(arg, basename(arg))
+
+    zipobj.close()
