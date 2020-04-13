@@ -1,0 +1,14 @@
+"Table Name","Defining Characteristic(s)","Cohort Length"
+veoa,Age,2
+veoe,Education,2
+veogs,State,2
+veons,Sector,2
+veoo2gs,2-digit DOD Occupation Code by State,8
+veoo2ns,2-digit DOD Occupation Code by Sector,8
+veoo2p,2-digit DOD Occupation Code by Pay Grade,4
+veoo3,3-digit DOD Occupation Code,8
+veop,Pay Grade,2
+veorh,Race by Ethnicity,2
+veos,Sex,2
+veot,AFQT Score Tercile,2
+veox,Experience,2
