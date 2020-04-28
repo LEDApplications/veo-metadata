@@ -4,9 +4,8 @@ from utils import create_zip
 
 if __name__ == "__main__":
     # TODO add state and state x occ data back into exports
-    # TODO add VEO-* to output filenames
-    # TODO add vintage metadata to the files 
-    
+    # TODO add vintage metadata to the files
+
     print("Generating zip files...")
 
     # to get the components that go into a zip file, go into the views directory of the frontend and run
@@ -17,7 +16,7 @@ if __name__ == "__main__":
     # ./ occupation / Paygrade.vue: < GetData: url = "dataPath('metadata/label_paygrade_groups.json')" >
     # ./ occupation / Paygrade.vue: < GetData: url = "dataPath('metadata/label_4year_cohorts.json')" >
     # ./ occupation / Paygrade.vue::url = "dataPath('data/veoo2p.csv')"
-    create_zip("../out/OccupationByPaygrade.zip",
+    create_zip("../out/VEO-OccupationByPaygrade.zip",
                "../raw/release_schema.csv",
                "../raw/tablelist.csv",
                "../raw/label_cohort.csv",
@@ -30,7 +29,7 @@ if __name__ == "__main__":
     # ./ occupation / Detail.vue: < GetData: url = "dataPath('metadata/label_dod_occ_code_detailed.json')" >
     # ./ occupation / Detail.vue: < GetData: url = "dataPath('metadata/label_8year_cohorts.json')" >
     # ./ occupation / Detail.vue::url = "dataPath('data/veoo3.csv')"
-    create_zip("../out/DetailedOccupation.zip",
+    create_zip("../out/VEO-DetailedOccupation.zip",
                "../raw/release_schema.csv",
                "../raw/tablelist.csv",
                "../raw/label_cohort.csv",
@@ -43,7 +42,7 @@ if __name__ == "__main__":
     # ./ occupation / Industry.vue: < GetData: url = "dataPath('metadata/label_industry.json')" >
     # ./ occupation / Industry.vue: < GetData: url = "dataPath('metadata/label_4year_cohorts.json')" >
     # ./ occupation / Industry.vue::url = "dataPath('data/veoo2ns.csv')"
-    create_zip("../out/OccupationByIndustry.zip",
+    create_zip("../out/VEO-OccupationByIndustry.zip",
                "../raw/release_schema.csv",
                "../raw/tablelist.csv",
                "../raw/label_cohort.csv",
@@ -56,7 +55,7 @@ if __name__ == "__main__":
     # ./ time / Paygrade.vue: < GetData: url = "dataPath('metadata/label_paygrade.json')" >
     # ./ time / Paygrade.vue: < GetData: url = "dataPath('metadata/label_2year_cohorts.json')" >
     # ./ time / Paygrade.vue::url = "dataPath('data/veop.csv')"
-    create_zip("../out/Paygrade.zip",
+    create_zip("../out/VEO-Paygrade.zip",
                "../raw/release_schema.csv",
                "../raw/tablelist.csv",
                "../raw/label_cohort.csv",
@@ -69,7 +68,7 @@ if __name__ == "__main__":
     # ./ time / RaceEthnicity.vue: < GetData: url = "dataPath('metadata/label_ethnicity.json')" >
     # ./ time / RaceEthnicity.vue: < GetData: url = "dataPath('metadata/label_2year_cohorts.json')" >
     # ./ time / RaceEthnicity.vue::url = "dataPath('data/veorh.csv')"
-    create_zip("../out/RaceEthnicity.zip",
+    create_zip("../out/VEO-RaceEthnicity.zip",
                "../raw/release_schema.csv",
                "../raw/tablelist.csv",
                "../raw/label_cohort.csv",
@@ -81,7 +80,7 @@ if __name__ == "__main__":
     # ./ time / AFQT.vue: < GetData: url = "dataPath('metadata/label_afqtgrp.json')" >
     # ./ time / AFQT.vue: < GetData: url = "dataPath('metadata/label_2year_cohorts.json')" >
     # ./ time / AFQT.vue::url = "dataPath('data/veot.csv')"
-    create_zip("../out/AFQT.zip", "../raw/release_schema.csv",
+    create_zip("../out/VEO-AFQT.zip", "../raw/release_schema.csv",
                "../raw/tablelist.csv",
                "../raw/label_cohort.csv",
                "../raw/label_cohort_years.csv",
@@ -91,7 +90,7 @@ if __name__ == "__main__":
     # ./ time / Age.vue: < GetData: url = "dataPath('metadata/label_agegrp.json')" >
     # ./ time / Age.vue: < GetData: url = "dataPath('metadata/label_2year_cohorts.json')" >
     # ./ time / Age.vue::url = "dataPath('data/veoa.csv')"
-    create_zip("../out/Age.zip", "../raw/release_schema.csv",
+    create_zip("../out/VEO-Age.zip", "../raw/release_schema.csv",
                "../raw/tablelist.csv",
                "../raw/label_cohort.csv",
                "../raw/label_cohort_years.csv",
@@ -101,7 +100,7 @@ if __name__ == "__main__":
     # ./ time / YearsOfService.vue: < GetData: url = "dataPath('metadata/label_yosgrp.json')" >
     # ./ time / YearsOfService.vue: < GetData: url = "dataPath('metadata/label_2year_cohorts.json')" >
     # ./ time / YearsOfService.vue::url = "dataPath('data/veox.csv')"
-    create_zip("../out/YearsOfService.zip",
+    create_zip("../out/VEO-YearsOfService.zip",
                "../raw/release_schema.csv",
                "../raw/tablelist.csv",
                "../raw/label_cohort.csv",
@@ -112,7 +111,7 @@ if __name__ == "__main__":
     # ./ time / Industry.vue: < GetData: url = "dataPath('metadata/label_industry.json')" >
     # ./ time / Industry.vue: < GetData: url = "dataPath('metadata/label_2year_cohorts.json')" >
     # ./ time / Industry.vue::url = "dataPath('data/veons.csv')"
-    create_zip("../out/Industry.zip",
+    create_zip("../out/VEO-Industry.zip",
                "../raw/release_schema.csv",
                "../raw/tablelist.csv",
                "../raw/label_cohort.csv",
@@ -124,7 +123,7 @@ if __name__ == "__main__":
     # ./ time / Sex.vue: < GetData: url = "dataPath('metadata/label_sex.json')" >
     # ./ time / Sex.vue: < GetData: url = "dataPath('metadata/label_2year_cohorts.json')" >
     # ./ time / Sex.vue::url = "dataPath('data/veos.csv')"
-    create_zip("../out/Sex.zip",
+    create_zip("../out/VEO-Sex.zip",
                "../raw/release_schema.csv",
                "../raw/tablelist.csv",
                "../raw/label_cohort.csv",
@@ -135,7 +134,7 @@ if __name__ == "__main__":
     # ./ time / Education.vue: < GetData: url = "dataPath('metadata/label_education.json')" >
     # ./ time / Education.vue: < GetData: url = "dataPath('metadata/label_2year_cohorts.json')" >
     # ./ time / Education.vue::url = "dataPath('data/veoe.csv')"
-    create_zip("../out/Education.zip",
+    create_zip("../out/VEO-Education.zip",
                "../raw/release_schema.csv",
                "../raw/tablelist.csv",
                "../raw/label_cohort.csv",

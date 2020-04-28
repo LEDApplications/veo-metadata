@@ -6,4 +6,4 @@ This repo contains the code to format and generate the label files for the veo a
 * Run 'cd src && python3 generate_metadata.py' to fire off the script
 
 This repo also contains code to generate the output files packaged for download by each view
-* run 'cd src && python3 generate_downloads.py' to fire off the scri[t]
+* run 'cd src && python3 generate_downloads.py' to fire off the script
