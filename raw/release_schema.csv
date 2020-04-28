@@ -28,7 +28,7 @@ VEOA,y5_p50_earnings,Num,Earnings 50th Percentile in year 5 (2018 Dollars)
 VEOA,y5_p75_earnings,Num,Earnings 75th Percentile in year 5 (2018 Dollars)
 VEOE,cohort,Char(4),First year of cohort
 VEOE,cohort_years,Num,Number of years in cohort
-VEOE,education,Char(3),Group: Education
+VEOE,education,Char(2),Group: Education
 VEOE,status_y10_earn,Num,Status Flag: Earnings in year 10
 VEOE,status_y10_emp,Num,Status Flag: Count of employed veterans in year 10
 VEOE,status_y10_nonemp,Num,Status Flag: Count of non-employed veterans in year 10
@@ -59,25 +59,19 @@ VEOGS,geo_level,Char(1),Group: Geographic level of employment
 VEOGS,geography,Char(8),Group: Geography code of employment
 VEOGS,status_y10_earn,Num,Status Flag: Earnings in year 10
 VEOGS,status_y10_emp,Num,Status Flag: Count of employed veterans in year 10
-VEOGS,status_y10_nonemp,Num,Status Flag: Count of non-employed veterans in year 10
 VEOGS,status_y1_earn,Num,Status Flag: Earnings in year 1
 VEOGS,status_y1_emp,Num,Status Flag: Count of employed veterans in year 1
-VEOGS,status_y1_nonemp,Num,Status Flag: Count of non-employed veterans in year 1
 VEOGS,status_y5_earn,Num,Status Flag: Earnings in year 5
 VEOGS,status_y5_emp,Num,Status Flag: Count of employed veterans in year 5
-VEOGS,status_y5_nonemp,Num,Status Flag: Count of non-employed veterans in year 5
 VEOGS,y10_emp,Num,Count of employed veterans in year 10
-VEOGS,y10_nonemp,Num,Count of non-employed veterans in year 10
 VEOGS,y10_p25_earnings,Num,Earnings 25th Percentile in year 10 (2018 Dollars)
 VEOGS,y10_p50_earnings,Num,Earnings 50th Percentile in year 10 (2018 Dollars)
 VEOGS,y10_p75_earnings,Num,Earnings 75th Percentile in year 10 (2018 Dollars)
 VEOGS,y1_emp,Num,Count of employed veterans in year 1
-VEOGS,y1_nonemp,Num,Count of non-employed veterans in year 1
 VEOGS,y1_p25_earnings,Num,Earnings 25th Percentile in year 1 (2018 Dollars)
 VEOGS,y1_p50_earnings,Num,Earnings 50th Percentile in year 1 (2018 Dollars)
 VEOGS,y1_p75_earnings,Num,Earnings 75th Percentile in year 1 (2018 Dollars)
 VEOGS,y5_emp,Num,Count of employed veterans in year 5
-VEOGS,y5_nonemp,Num,Count of non-employed veterans in year 5
 VEOGS,y5_p25_earnings,Num,Earnings 25th Percentile in year 5 (2018 Dollars)
 VEOGS,y5_p50_earnings,Num,Earnings 50th Percentile in year 5 (2018 Dollars)
 VEOGS,y5_p75_earnings,Num,Earnings 75th Percentile in year 5 (2018 Dollars)
@@ -87,25 +81,19 @@ VEONS,ind_level,Char(1),Group: Industry level of employment
 VEONS,industry,Char(5),Group: Industry code of employment
 VEONS,status_y10_earn,Num,Status Flag: Earnings in year 10
 VEONS,status_y10_emp,Num,Status Flag: Count of employed veterans in year 10
-VEONS,status_y10_nonemp,Num,Status Flag: Count of non-employed veterans in year 10
 VEONS,status_y1_earn,Num,Status Flag: Earnings in year 1
 VEONS,status_y1_emp,Num,Status Flag: Count of employed veterans in year 1
-VEONS,status_y1_nonemp,Num,Status Flag: Count of non-employed veterans in year 1
 VEONS,status_y5_earn,Num,Status Flag: Earnings in year 5
 VEONS,status_y5_emp,Num,Status Flag: Count of employed veterans in year 5
-VEONS,status_y5_nonemp,Num,Status Flag: Count of non-employed veterans in year 5
 VEONS,y10_emp,Num,Count of employed veterans in year 10
-VEONS,y10_nonemp,Num,Count of non-employed veterans in year 10
 VEONS,y10_p25_earnings,Num,Earnings 25th Percentile in year 10 (2018 Dollars)
 VEONS,y10_p50_earnings,Num,Earnings 50th Percentile in year 10 (2018 Dollars)
 VEONS,y10_p75_earnings,Num,Earnings 75th Percentile in year 10 (2018 Dollars)
 VEONS,y1_emp,Num,Count of employed veterans in year 1
-VEONS,y1_nonemp,Num,Count of non-employed veterans in year 1
 VEONS,y1_p25_earnings,Num,Earnings 25th Percentile in year 1 (2018 Dollars)
 VEONS,y1_p50_earnings,Num,Earnings 50th Percentile in year 1 (2018 Dollars)
 VEONS,y1_p75_earnings,Num,Earnings 75th Percentile in year 1 (2018 Dollars)
 VEONS,y5_emp,Num,Count of employed veterans in year 5
-VEONS,y5_nonemp,Num,Count of non-employed veterans in year 5
 VEONS,y5_p25_earnings,Num,Earnings 25th Percentile in year 5 (2018 Dollars)
 VEONS,y5_p50_earnings,Num,Earnings 50th Percentile in year 5 (2018 Dollars)
 VEONS,y5_p75_earnings,Num,Earnings 75th Percentile in year 5 (2018 Dollars)
@@ -117,25 +105,19 @@ VEOO2GS,geo_level,Char(1),Group: Geographic level of employment
 VEOO2GS,geography,Char(8),Group: Geography code of employment
 VEOO2GS,status_y10_earn,Num,Status Flag: Earnings in year 10
 VEOO2GS,status_y10_emp,Num,Status Flag: Count of employed veterans in year 10
-VEOO2GS,status_y10_nonemp,Num,Status Flag: Count of non-employed veterans in year 10
 VEOO2GS,status_y1_earn,Num,Status Flag: Earnings in year 1
 VEOO2GS,status_y1_emp,Num,Status Flag: Count of employed veterans in year 1
-VEOO2GS,status_y1_nonemp,Num,Status Flag: Count of non-employed veterans in year 1
 VEOO2GS,status_y5_earn,Num,Status Flag: Earnings in year 5
 VEOO2GS,status_y5_emp,Num,Status Flag: Count of employed veterans in year 5
-VEOO2GS,status_y5_nonemp,Num,Status Flag: Count of non-employed veterans in year 5
 VEOO2GS,y10_emp,Num,Count of employed veterans in year 10
-VEOO2GS,y10_nonemp,Num,Count of non-employed veterans in year 10
 VEOO2GS,y10_p25_earnings,Num,Earnings 25th Percentile in year 10 (2018 Dollars)
 VEOO2GS,y10_p50_earnings,Num,Earnings 50th Percentile in year 10 (2018 Dollars)
 VEOO2GS,y10_p75_earnings,Num,Earnings 75th Percentile in year 10 (2018 Dollars)
 VEOO2GS,y1_emp,Num,Count of employed veterans in year 1
-VEOO2GS,y1_nonemp,Num,Count of non-employed veterans in year 1
 VEOO2GS,y1_p25_earnings,Num,Earnings 25th Percentile in year 1 (2018 Dollars)
 VEOO2GS,y1_p50_earnings,Num,Earnings 50th Percentile in year 1 (2018 Dollars)
 VEOO2GS,y1_p75_earnings,Num,Earnings 75th Percentile in year 1 (2018 Dollars)
 VEOO2GS,y5_emp,Num,Count of employed veterans in year 5
-VEOO2GS,y5_nonemp,Num,Count of non-employed veterans in year 5
 VEOO2GS,y5_p25_earnings,Num,Earnings 25th Percentile in year 5 (2018 Dollars)
 VEOO2GS,y5_p50_earnings,Num,Earnings 50th Percentile in year 5 (2018 Dollars)
 VEOO2GS,y5_p75_earnings,Num,Earnings 75th Percentile in year 5 (2018 Dollars)
@@ -147,25 +129,19 @@ VEOO2NS,ind_level,Char(1),Group: Industry level of employment
 VEOO2NS,industry,Char(5),Group: Industry code of employment
 VEOO2NS,status_y10_earn,Num,Status Flag: Earnings in year 10
 VEOO2NS,status_y10_emp,Num,Status Flag: Count of employed veterans in year 10
-VEOO2NS,status_y10_nonemp,Num,Status Flag: Count of non-employed veterans in year 10
 VEOO2NS,status_y1_earn,Num,Status Flag: Earnings in year 1
 VEOO2NS,status_y1_emp,Num,Status Flag: Count of employed veterans in year 1
-VEOO2NS,status_y1_nonemp,Num,Status Flag: Count of non-employed veterans in year 1
 VEOO2NS,status_y5_earn,Num,Status Flag: Earnings in year 5
 VEOO2NS,status_y5_emp,Num,Status Flag: Count of employed veterans in year 5
-VEOO2NS,status_y5_nonemp,Num,Status Flag: Count of non-employed veterans in year 5
 VEOO2NS,y10_emp,Num,Count of employed veterans in year 10
-VEOO2NS,y10_nonemp,Num,Count of non-employed veterans in year 10
 VEOO2NS,y10_p25_earnings,Num,Earnings 25th Percentile in year 10 (2018 Dollars)
 VEOO2NS,y10_p50_earnings,Num,Earnings 50th Percentile in year 10 (2018 Dollars)
 VEOO2NS,y10_p75_earnings,Num,Earnings 75th Percentile in year 10 (2018 Dollars)
 VEOO2NS,y1_emp,Num,Count of employed veterans in year 1
-VEOO2NS,y1_nonemp,Num,Count of non-employed veterans in year 1
 VEOO2NS,y1_p25_earnings,Num,Earnings 25th Percentile in year 1 (2018 Dollars)
 VEOO2NS,y1_p50_earnings,Num,Earnings 50th Percentile in year 1 (2018 Dollars)
 VEOO2NS,y1_p75_earnings,Num,Earnings 75th Percentile in year 1 (2018 Dollars)
 VEOO2NS,y5_emp,Num,Count of employed veterans in year 5
-VEOO2NS,y5_nonemp,Num,Count of non-employed veterans in year 5
 VEOO2NS,y5_p25_earnings,Num,Earnings 25th Percentile in year 5 (2018 Dollars)
 VEOO2NS,y5_p50_earnings,Num,Earnings 50th Percentile in year 5 (2018 Dollars)
 VEOO2NS,y5_p75_earnings,Num,Earnings 75th Percentile in year 5 (2018 Dollars)
@@ -258,7 +234,7 @@ VEOP,y5_p75_earnings,Num,Earnings 75th Percentile in year 5 (2018 Dollars)
 VEORH,cohort,Char(4),First year of cohort
 VEORH,cohort_years,Num,Number of years in cohort
 VEORH,ethnicity,Char(2),Group: Ethnicity
-VEORH,race,Char(3),Group: Race
+VEORH,race,Char(2),Group: Race
 VEORH,status_y10_earn,Num,Status Flag: Earnings in year 10
 VEORH,status_y10_emp,Num,Status Flag: Count of employed veterans in year 10
 VEORH,status_y10_nonemp,Num,Status Flag: Count of non-employed veterans in year 10

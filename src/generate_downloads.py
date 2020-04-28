@@ -4,6 +4,9 @@ from utils import create_zip
 
 if __name__ == "__main__":
     # TODO add state and state x occ data back into exports
+    # TODO add VEO-* to output filenames
+    # TODO add vintage metadata to the files 
+    
     print("Generating zip files...")
 
     # to get the components that go into a zip file, go into the views directory of the frontend and run
