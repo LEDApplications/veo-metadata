@@ -15,11 +15,12 @@ def format_paygrade(file_name, label_column, pretty=None):
     for i, row in enumerate(read_csv(csv_file)):
         veo_id = row[label_column]
         label = row['label']
+        level = row['paygrade_level']
 
-        if "-" not in veo_id:
+        if level == "E":
             csv_data.extend([{"id": veo_id, "label": label}])
 
-        else:
+        if level == "A":
             csv_data_groups.extend([{"id": veo_id, "label": label}])
 
     write_json(csv_data, json_file, "labels", pretty)
