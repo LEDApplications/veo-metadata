@@ -6,6 +6,7 @@ from format_detailed_occ import format_detailed_occ
 from format_default import format_default
 from format_paygrade import format_paygrade
 from format_cohort_years import format_cohort_years
+from format_industry import format_industry
 
 if __name__ == "__main__":
     # set year range for cohort labels
@@ -23,13 +24,15 @@ if __name__ == "__main__":
     format_simple_occ(json_format)
     format_detailed_occ(json_format)
 
+    # handling for custom label_industry
+    format_industry("label_industry", "industry", json_format)
+
     # handling for default layout
     format_default("label_afqtgrp", "afqtgrp", json_format)
     format_default("label_agegrp", "agegrp", json_format)
     format_default("label_education", "education", json_format)
     format_default("label_ethnicity", "ethnicity", json_format)
     format_default("label_fipsnum", "geography", json_format)
-    format_default("label_industry", "industry", json_format)
     format_default("label_race", "race", json_format)
     format_default("label_sex", "sex", json_format)
     format_default("label_yosgrp", "yosgrp", json_format)
