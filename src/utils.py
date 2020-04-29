@@ -4,6 +4,13 @@ from zipfile import ZipFile
 from os.path import basename
 
 
+# Get Header Names
+def get_header_csv(file):
+    with open(file) as csvfile:
+        reader = csv.DictReader(csvfile)
+        return reader.fieldnames
+    
+
 # Read CSV File
 def read_csv(file):
     csv_rows = []
