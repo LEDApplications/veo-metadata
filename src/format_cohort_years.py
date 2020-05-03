@@ -5,7 +5,7 @@ from utils import write_json
 
 def format_cohort_years(start_year, end_year, years, pretty=None):
     print("Creating {} year labels".format(years))
-    json_file = '../out/label_{}year_cohorts.json'.format(years)
+    json_file = '../out/metadata/label_{}year_cohorts.json'.format(years)
 
     csv_data = []
     for x in range(start_year, end_year, years):

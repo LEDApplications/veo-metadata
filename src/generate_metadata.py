@@ -7,6 +7,7 @@ from format_default import format_default
 from format_paygrade import format_paygrade
 from format_cohort_years import format_cohort_years
 from format_industry import format_industry
+from format_race import format_race
 
 if __name__ == "__main__":
     # set year range for cohort labels
@@ -17,7 +18,7 @@ if __name__ == "__main__":
     json_format = 'minify'
 
     # create output directory
-    Path("../out").mkdir(parents=True, exist_ok=True)
+    Path("../out/metadata").mkdir(parents=True, exist_ok=True)
 
     # handling for custom logic of occ/mos labels
     print("Generating metadata files in the ../out directory")
@@ -27,13 +28,15 @@ if __name__ == "__main__":
     # handling for custom label_industry
     format_industry("label_industry", "industry", json_format)
 
+    # handling for custom label_race
+    format_race("label_race", "race", json_format)
+
     # handling for default layout
     format_default("label_afqtgrp", "afqtgrp", json_format)
     format_default("label_agegrp", "agegrp", json_format)
     format_default("label_education", "education", json_format)
     format_default("label_ethnicity", "ethnicity", json_format)
     format_default("label_fipsnum", "geography", json_format)
-    format_default("label_race", "race", json_format)
     format_default("label_sex", "sex", json_format)
     format_default("label_yosgrp", "yosgrp", json_format)
 
