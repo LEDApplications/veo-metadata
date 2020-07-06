@@ -12,7 +12,8 @@ REQUIRED_FIELDS = ['y1_emp', 'y5_emp', 'y10_emp', 'y1_nonemp', 'y5_nonemp', 'y10
                    'status_y10_emp', 'status_y1_nonemp', 'status_y5_nonemp', 'status_y10_nonemp', 'status_y1_earn',
                    'status_y5_earn', 'status_y10_earn']
 
-if __name__ == "__main__":
+
+def generate_appdata():
     # set output directory
     output_directory = "../out/data"
 
@@ -58,3 +59,7 @@ if __name__ == "__main__":
 
                 # write to the output
                 writer.writerow(row)
+
+
+if __name__ == "__main__":
+    generate_appdata()

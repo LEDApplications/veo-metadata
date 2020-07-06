@@ -9,11 +9,8 @@ from format_cohort_years import format_cohort_years
 from format_industry import format_industry
 from format_race import format_race
 
-if __name__ == "__main__":
-    # set year range for cohort labels
-    start_year = 2000
-    end_year = 2015
 
+def generate_metadata(start_year=2000, end_year=2015):
     # format readable output [pretty/minify/other]
     json_format = 'minify'
 
@@ -47,3 +44,7 @@ if __name__ == "__main__":
     format_cohort_years(start_year, end_year, 2, json_format)
     format_cohort_years(start_year, end_year, 4, json_format)
     format_cohort_years(start_year, end_year, 8, json_format)
+
+
+if __name__ == "__main__":
+    generate_metadata()

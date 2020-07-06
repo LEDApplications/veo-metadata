@@ -2,7 +2,8 @@
 
 from utils import create_zip
 
-if __name__ == "__main__":
+
+def generate_downloads():
     # TODO add state and state x occ data back into exports
     # TODO add vintage metadata to the files
 
@@ -143,3 +144,7 @@ if __name__ == "__main__":
                "../raw/veoe.csv")
 
     print("Done.")
+
+
+if __name__ == "__main__":
+    generate_downloads()
