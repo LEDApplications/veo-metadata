@@ -8,6 +8,7 @@ from format_paygrade import format_paygrade
 from format_cohort_years import format_cohort_years
 from format_industry import format_industry
 from format_race import format_race
+from format_fipsnum import format_fipsnum
 
 
 def generate_metadata(start_year=2000, end_year=2015):
@@ -33,7 +34,6 @@ def generate_metadata(start_year=2000, end_year=2015):
     format_default("label_agegrp", "agegrp", json_format)
     format_default("label_education", "education", json_format)
     format_default("label_ethnicity", "ethnicity", json_format)
-    format_default("label_fipsnum", "geography", json_format)
     format_default("label_sex", "sex", json_format)
     format_default("label_yosgrp", "yosgrp", json_format)
 
@@ -44,6 +44,9 @@ def generate_metadata(start_year=2000, end_year=2015):
     format_cohort_years(start_year, end_year, 2, json_format)
     format_cohort_years(start_year, end_year, 4, json_format)
     format_cohort_years(start_year, end_year, 8, json_format)
+
+    # handling for geography
+    format_fipsnum("label_fipsnum", "geography", json_format)
 
 
 if __name__ == "__main__":
