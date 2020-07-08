@@ -53,6 +53,7 @@ def generate_downloads():
                "../raw/label_cohort_years.csv",
                "../raw/label_dod_occ_code.csv",
                "../raw/label_fipsnum.csv",
+               "../raw/label_geo_level.csv",
                "../raw/veoo2gs.csv")
 
     # ./ occupation / Industry.vue: < GetData: url = "dataPath('metadata/label_dod_occ_code.json')" >
@@ -78,6 +79,7 @@ def generate_downloads():
                "../raw/label_cohort.csv",
                "../raw/label_cohort_years.csv",
                "../raw/label_fipsnum.csv",
+               "../raw/label_geo_level.csv",
                "../raw/veogs.csv")
 
     # ./ time / Paygrade.vue: < GetData: url = "dataPath('metadata/label_paygrade.json')" >
