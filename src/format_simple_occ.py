@@ -10,7 +10,7 @@ def format_simple_occ(pretty=None):
 
     csv_data = []
     for i, row in enumerate(read_csv(csv_file)):
-        if 'X' in row['dod_occ_code']:
+        if 'X' in row['dod_occ_code'] or 'A' in row['dod_occ_code_level']:
             dod_id = row['dod_occ_code']
             label = row['label']
             csv_data.extend([{"id": dod_id, "label": label}])
