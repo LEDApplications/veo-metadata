@@ -1,10 +1,11 @@
 paygrade,label,paygrade_level
+E0,All pay grade bins,A
 E1,Private,E
 E2,Private (PV2),E
 E3,Private First Class (PFC),E
 E4,Corporal (CPL) or Specialist (SPC),E
 E5,Sergeant (SGT),E
 E6,Staff Sergeant (SSG),E
-E7-E9,"Sergeant First Class (SFC), Master Sergeant (MSG) or First Sergeant (1SG), and Sergeant Major (SGM), Command Sergeant Major (CSM), or Sergeant Major of the Army (SMA)",E
-E1-E5,Paygrades E1-E5,A
-E6-E9,Paygrades E6-E9,A
+E79,"Sergeant First Class (SFC), Master Sergeant (MSG) or First Sergeant (1SG), and Sergeant Major (SGM), Command Sergeant Major (CSM), or Sergeant Major of the Army (SMA)",E
+E1-E5,Pay grade bins E1-E5,G
+E6-E9,Pay grade bins E6 and E79,G

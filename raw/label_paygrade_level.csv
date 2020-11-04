@@ -1,3 +1,4 @@
 paygrade_level,label,
-A,Group: Grouped pay grade bins,
+A,All pay grade bins,
+G,Group: Grouped pay grade bins,
 E,Group: Pay grade bins,

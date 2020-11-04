@@ -1,2 +1,3 @@
 geo_level,label,description
+N,National (50 states + DC),Custom code using '00' to denote national scope
 S,States,Identifies 2-digit FIPS/ANSI codes

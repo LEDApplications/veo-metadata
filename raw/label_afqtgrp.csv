@@ -1,4 +1,5 @@
 afqtgrp,label,
-A1,Score range: 0-33,
-A2,Score range: 34-66,
-A3,Score range: 67-100,
+A0,All score terciles,
+A1,Score tercile: 0-33,
+A2,Score tercile: 34-66,
+A3,Score tercile: 67-100,

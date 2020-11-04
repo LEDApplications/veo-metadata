@@ -1,8 +1,9 @@
 race,label
-A1,White Alone
-A2,Black or African American Alone
-A3,American Indian or Alaska Native Alone
-A4,Asian Alone
-A5,Native Hawaiian or Other Pacific Islander Alone
-A6,Some Other Race Alone (Not Used)
-A7,Two or More Race Groups
+A0,All races
+A1,White alone
+A2,Black or African American alone
+A3,American Indian or Alaska Native alone
+A4,Asian alone
+A5,Native Hawaiian or Other Pacific Islander alone
+A6,Some other race alone (Not used)
+A7,Two or more race groups
