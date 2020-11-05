@@ -17,10 +17,10 @@ def format_paygrade(file_name, label_column, pretty=None):
         label = row['label']
         level = row['paygrade_level']
 
-        if level == "E":
+        if level == "E" or level == "A":
             csv_data.extend([{"id": veo_id, "label": label}])
 
-        if level == "A":
+        if level == "G" or level == "A":
             csv_data_groups.extend([{"id": veo_id, "label": label}])
 
     write_json(csv_data, json_file, "labels", pretty)
