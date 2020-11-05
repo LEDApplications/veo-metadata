@@ -8,6 +8,10 @@ def format_cohort_years(start_year, end_year, years, pretty=None):
     json_file = '../out/metadata/label_{}year_cohorts.json'.format(years)
 
     csv_data = []
+
+    # all years rollups
+    csv_data.extend([{"id": "0", "label": "All cohorts"}])
+
     for x in range(start_year, end_year, years):
         veo_id = "{}".format(x)
         label = "{}-{}".format(x, x + years - 1)
