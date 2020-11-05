@@ -7,5 +7,6 @@ E4,Corporal (CPL) or Specialist (SPC),E
 E5,Sergeant (SGT),E
 E6,Staff Sergeant (SSG),E
 E79,"Sergeant First Class (SFC), Master Sergeant (MSG) or First Sergeant (1SG), and Sergeant Major (SGM), Command Sergeant Major (CSM), or Sergeant Major of the Army (SMA)",E
+E1-E9,All pay grade bins,A
 E1-E5,Pay grade bins E1-E5,G
 E6-E9,Pay grade bins E6 and E79,G

@@ -16,11 +16,12 @@ def format_paygrade(file_name, label_column, pretty=None):
         veo_id = row[label_column]
         label = row['label']
         level = row['paygrade_level']
+        paygrade = row['paygrade']
 
-        if level == "E" or level == "A":
+        if level == "E" or level == "A" and len(paygrade) <= 3:
             csv_data.extend([{"id": veo_id, "label": label}])
 
-        if level == "G" or level == "A":
+        if level == "G" or level == "A" and len(paygrade) > 3:
             csv_data_groups.extend([{"id": veo_id, "label": label}])
 
     write_json(csv_data, json_file, "labels", pretty)
