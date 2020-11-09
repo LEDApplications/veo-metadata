@@ -2,4 +2,4 @@ This is a 4-digit number representing the first year of the cohort. The number o
 
 "If cohort is 2010 and cohort_years is 2, then the cell includes veterans separating from service in 2010 and 2011."
 
-"When tabulating across all cohorts, the value 0000 will be used for cohort"
+"When tabulating across all cohorts, the value 0 will be used for cohort"
