@@ -10,7 +10,7 @@ def format_cohort_years(start_year, end_year, years, pretty=None):
     csv_data = []
 
     # all years rollups
-    csv_data.extend([{"id": "0", "label": "All cohorts"}])
+    csv_data.extend([{"id": "0", "label": "All Cohorts"}])
 
     for x in range(start_year, end_year, years):
         veo_id = "{}".format(x)
