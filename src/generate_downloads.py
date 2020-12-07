@@ -32,8 +32,7 @@ def generate_downloads():
                "../raw/label_dod_occ_code.csv",
                "../raw/label_paygrade.csv",
                "../raw/label_paygrade_level.csv",
-               "../raw/veoo2p.csv",
-               "../raw/margins_veoo2p.csv")
+               "../raw/veoo2p.csv")
 
     # ./ occupation / Detail.vue: < GetData: url = "dataPath(
     # 'metadata/label_dod_occ_code_detailed.json')" >
@@ -47,8 +46,7 @@ def generate_downloads():
                "../raw/label_cohort_years.csv",
                "../raw/label_dod_occ_code.csv",
                "../raw/label_dod_occ_code_w_mosc.csv",
-               "../raw/veoo3.csv",
-               "../raw/margins_veoo3.csv")
+               "../raw/veoo3.csv")
 
     # ./ occupation / State.vue: < GetData: url = "dataPath(
     # 'metadata/label_dod_occ_code.json')" >
@@ -65,8 +63,7 @@ def generate_downloads():
                "../raw/label_dod_occ_code.csv",
                "../raw/label_fipsnum.csv",
                "../raw/label_geo_level.csv",
-               "../raw/veoo2gs.csv",
-               "../raw/margins_veoo2gs.csv")
+               "../raw/veoo2gs.csv")
 
     # ./ occupation / Industry.vue: < GetData: url = "dataPath(
     # 'metadata/label_dod_occ_code.json')" >
@@ -83,8 +80,7 @@ def generate_downloads():
                "../raw/label_dod_occ_code.csv",
                "../raw/label_industry.csv",
                "../raw/label_ind_level.csv",
-               "../raw/veoo2ns.csv",
-               "../raw/margins_veoo2ns.csv")
+               "../raw/veoo2ns.csv")
 
     # ./ time / State.vue: < GetData: url = "dataPath(
     # 'metadata/label_fipsnum.json')" >
@@ -98,8 +94,7 @@ def generate_downloads():
                "../raw/label_cohort_years.csv",
                "../raw/label_fipsnum.csv",
                "../raw/label_geo_level.csv",
-               "../raw/veogs.csv",
-               "../raw/margins_veogs.csv")
+               "../raw/veogs.csv")
 
     # ./ time / Paygrade.vue: < GetData: url = "dataPath(
     # 'metadata/label_paygrade.json')" >
@@ -113,8 +108,7 @@ def generate_downloads():
                "../raw/label_cohort_years.csv",
                "../raw/label_paygrade.csv",
                "../raw/label_paygrade_level.csv",
-               "../raw/veop.csv",
-               "../raw/margins_veop.csv")
+               "../raw/veop.csv")
 
     # ./ time / RaceEthnicity.vue: < GetData: url = "dataPath(
     # 'metadata/label_race.json')" >
@@ -130,8 +124,7 @@ def generate_downloads():
                "../raw/label_cohort_years.csv",
                "../raw/label_race.csv",
                "../raw/label_ethnicity.csv",
-               "../raw/veorh.csv",
-               "../raw/margins_veorh.csv")
+               "../raw/veorh.csv")
 
     # ./ time / AFQT.vue: < GetData: url = "dataPath(
     # 'metadata/label_afqtgrp.json')" >
@@ -143,8 +136,7 @@ def generate_downloads():
                "../raw/label_cohort.csv",
                "../raw/label_cohort_years.csv",
                "../raw/label_afqtgrp.csv",
-               "../raw/veot.csv",
-               "../raw/margins_veot.csv")
+               "../raw/veot.csv")
 
     # ./ time / Age.vue: < GetData: url = "dataPath(
     # 'metadata/label_agegrp.json')" >
@@ -156,8 +148,7 @@ def generate_downloads():
                "../raw/label_cohort.csv",
                "../raw/label_cohort_years.csv",
                "../raw/label_agegrp.csv",
-               "../raw/veoa.csv",
-               "../raw/margins_veoa.csv")
+               "../raw/veoa.csv")
 
     # ./ time / YearsOfService.vue: < GetData: url = "dataPath(
     # 'metadata/label_yosgrp.json')" >
@@ -170,8 +161,7 @@ def generate_downloads():
                "../raw/label_cohort.csv",
                "../raw/label_cohort_years.csv",
                "../raw/label_yosgrp.csv",
-               "../raw/veox.csv",
-               "../raw/margins_veox.csv")
+               "../raw/veox.csv")
 
     # ./ time / Industry.vue: < GetData: url = "dataPath(
     # 'metadata/label_industry.json')" >
@@ -185,8 +175,7 @@ def generate_downloads():
                "../raw/label_cohort_years.csv",
                "../raw/label_industry.csv",
                "../raw/label_ind_level.csv",
-               "../raw/veons.csv",
-               "../raw/margins_veons.csv")
+               "../raw/veons.csv")
 
     # ./ time / Sex.vue: < GetData: url = "dataPath(
     # 'metadata/label_sex.json')" >
@@ -199,8 +188,7 @@ def generate_downloads():
                "../raw/label_cohort.csv",
                "../raw/label_cohort_years.csv",
                "../raw/label_sex.csv",
-               "../raw/veos.csv",
-               "../raw/margins_veos.csv")
+               "../raw/veos.csv")
 
     # ./ time / Education.vue: < GetData: url = "dataPath(
     # 'metadata/label_education.json')" >
@@ -213,9 +201,8 @@ def generate_downloads():
                "../raw/label_cohort.csv",
                "../raw/label_cohort_years.csv",
                "../raw/label_education.csv",
-               "../raw/veoe.csv",
-               "../raw/margins_veoe.csv")
-   
+               "../raw/veoe.csv")
+
     print("Done.")
 
 

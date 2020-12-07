@@ -61,9 +61,7 @@ def generate_appdata():
                   "veox"]:
         print("Processing {}...".format(table))
         csv_file = "{}.csv".format(table)
-        margin_file = "margins_{}.csv".format(table)
         csv_file_in = join("../raw/", csv_file)
-        margin_file_in = join("../raw/", margin_file)
         csv_file_out = join(output_directory, csv_file)
 
         # get the columns contained in the csv
@@ -73,7 +71,6 @@ def generate_appdata():
                           field not in table_fields]
 
         with open(csv_file_in, 'r') as f_in, \
-                open(margin_file_in, 'r', newline='') as m_in, \
                 open(csv_file_out, 'w', newline='') as f_out:
             # setup the output file
             writer = csv.writer(f_out, lineterminator=linesep)
@@ -81,10 +78,6 @@ def generate_appdata():
             # write the vanilla data
             csv_reader = csv.reader(f_in, delimiter=',')
             read_write(csv_reader, writer, missing_fields, write_header=True)
-
-            # write the margins
-            margin_reader = csv.reader(m_in, delimiter=',')
-            read_write(margin_reader, writer, missing_fields)
 
 
 if __name__ == "__main__":
